@@ -1,0 +1,5 @@
+pypdf>=4.0.0
+openpyxl>=3.1.0
+# Optional: only needed when running the LLM reasoning layer with OpenAI.
+# The pipeline runs end-to-end without it using the deterministic fallback agent.
+openai>=1.0.0

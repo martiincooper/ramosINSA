@@ -1,0 +1,11 @@
+# Generated course artifacts (reproducible via `python main.py`)
+INSA_Courses/
+USM_Courses/
+Extracted_Text/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
