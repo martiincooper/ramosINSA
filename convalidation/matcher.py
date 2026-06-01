@@ -13,7 +13,7 @@ Implements the requirements of the problem statement:
 from __future__ import annotations
 
 from itertools import combinations
-from typing import List, Optional, Tuple
+from typing import Iterable, List, Optional, Set, Tuple
 
 from . import config
 from .config import RULES
@@ -168,20 +168,60 @@ def recommend(
     )
 
 
+def _filter_candidates(
+    candidates: List[CandidateMatch], exclude_codes: Iterable[str]
+) -> List[CandidateMatch]:
+    """Drop candidates whose INSA course is already used by another USM course."""
+    excluded = set(exclude_codes)
+    if not excluded:
+        return list(candidates)
+    return [c for c in candidates if c.insa_code not in excluded]
+
+
 def match_all(
     usm_courses: List[USMCourse],
     insa_courses: List[INSACourse],
     agent: Optional[BaseAgent] = None,
 ) -> Tuple[List[CandidateMatch], List[Recommendation]]:
-    """Return (all top candidate matches, one recommendation per USM course)."""
+    """Return (all top candidate matches, one recommendation per USM course).
+
+    Each INSA course is convalidated for **at most one** USM course: once an INSA
+    course is selected in a recommendation it is removed from the candidate pool
+    of every remaining USM course, so the suggested lists never reuse (duplicate)
+    the same INSA course. To keep the assignment fair, USM courses are processed
+    best-match-first (by their strongest candidate), giving scarce INSA courses to
+    the USM course they fit best. The output order still follows ``usm_courses``.
+    """
     agent = agent or get_agent()
+
+    # Rank every USM course once against the full INSA catalogue. Index-based
+    # bookkeeping keeps distinct USM entries separate even if two share a code.
+    rankings = [rank_candidates(usm, insa_courses, agent) for usm in usm_courses]
+
+    def best_similarity(index: int) -> float:
+        ranked = rankings[index]
+        return ranked[0].similarity if ranked else 0.0
+
+    # Greedily assign the scarce INSA courses to their best-matching USM course.
+    assignment_order = sorted(range(len(usm_courses)), key=best_similarity, reverse=True)
+
+    used_codes: Set[str] = set()
+    candidates_by_index: dict[int, List[CandidateMatch]] = {}
+    recommendations_by_index: dict[int, Recommendation] = {}
+
+    for index in assignment_order:
+        usm = usm_courses[index]
+        available = _filter_candidates(rankings[index], used_codes)
+        candidates_by_index[index] = available[: RULES.top_k_candidates]
+        recommendation = recommend(usm, available, insa_courses, agent)
+        recommendations_by_index[index] = recommendation
+        used_codes.update(recommendation.insa_codes)
+
+    # Preserve the original USM order for stable, readable output.
     all_candidates: List[CandidateMatch] = []
     recommendations: List[Recommendation] = []
-
-    for usm in usm_courses:
-        ranked = rank_candidates(usm, insa_courses, agent)
-        top = ranked[: RULES.top_k_candidates]
-        all_candidates.extend(top)
-        recommendations.append(recommend(usm, ranked, insa_courses, agent))
+    for index in range(len(usm_courses)):
+        all_candidates.extend(candidates_by_index[index])
+        recommendations.append(recommendations_by_index[index])
 
     return all_candidates, recommendations
