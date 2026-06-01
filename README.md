@@ -71,6 +71,10 @@ The pipeline creates these folders (regenerated on each run, git-ignored):
   3. **Candidate Matches** — USM course, INSA course, similarity score, ECTS, notes.
   4. **Recommended Convalidations** — USM course, recommended INSA course(s),
      combined ECTS, estimated equivalence %, validation status, justification.
+     Each INSA course is suggested for **at most one** USM course: once an INSA
+     course is selected it is not reused for another USM convalidation, so the
+     recommended lists never duplicate the same INSA course. USM courses are
+     assigned best-match-first so scarce INSA courses go to the course they fit best.
   5. **Final Proposed Study Plan** — semester, INSA courses, total ECTS,
      departments involved, target USM convalidations (with rule warnings).
 

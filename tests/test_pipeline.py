@@ -149,6 +149,33 @@ def test_study_plan_groups_by_semester():
     assert any("GI-3-S1-EC-APS" in c for c in plan[0].insa_courses)
 
 
+def test_insa_courses_not_duplicated_across_usm_courses():
+    # Two USM courses that both match the same single INSA course best.
+    usm_a = usm_parser.parse_usm_text(USM_SHEET)
+    usm_b = usm_parser.parse_usm_text(
+        USM_SHEET.replace("ICN-345", "ICN-999").replace(
+            "Administracion de la Produccion", "Gestion de la Produccion"
+        )
+    )
+    insa_courses = [
+        insa_parser.parse_insa_course(INSA_SHEET),
+        INSACourse(
+            code="GI-3-S1-EC-GIN",
+            title="Industrial management",
+            ects=4,
+            year="3",
+            semester="S1",
+            department="Industrial Engineering",
+            aims="industrial production management and inventory",
+            content="production planning, inventory management, demand forecast",
+        ),
+    ]
+    _, recs = matcher.match_all([usm_a, usm_b], insa_courses, HeuristicAgent())
+    used = [code for rec in recs for code in rec.insa_codes]
+    # No INSA course may be convalidated for more than one USM course.
+    assert len(used) == len(set(used))
+
+
 def _run_all():
     funcs = [v for k, v in sorted(globals().items()) if k.startswith("test_")]
     for fn in funcs:
