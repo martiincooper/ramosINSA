@@ -17,7 +17,7 @@ actual content of each course sheet, never from titles alone.
 5. Feeds the extracted text to an **agent** that reasons over the content.
 6. Ranks INSA candidates, prefers **combinations** when one course is not
    enough, and checks the INSA / USM rules.
-7. Produces an **Excel workbook** with 5 sheets of results.
+7. Produces an **Excel workbook** with 6 sheets of results.
 
 ## Academic rules encoded (`convalidation/config.py`)
 
@@ -77,6 +77,13 @@ The pipeline creates these folders (regenerated on each run, git-ignored):
      assigned best-match-first so scarce INSA courses go to the course they fit best.
   5. **Final Proposed Study Plan** — semester, INSA courses, total ECTS,
      departments involved, target USM convalidations (with rule warnings).
+  6. **Convalidation Form** — the official USM equivalence table layout, with the
+     INSA (destination university) course on the left
+     (*ASIGNATURA EN UNIVERSIDAD DE DESTINO*: SIGLA, NOMBRE ASIGNATURA, IDIOMA
+     INSTRUCCIÓN, NIVEL ASIGNATURA — Pregrado/Master —, CRÉDITOS) and its
+     equivalent USM course on the right (*ASIGNATURA EQUIVALENTE USM*: SIGLA,
+     NOMBRE ASIGNATURA, CRÉDITOS SCT). When a USM course is convalidated by a
+     combination of several INSA courses they appear on consecutive rows.
 
 Validation status labels: `Valid`, `Borderline`, `Invalid`,
 `Valid with combination`, `Needs additional work`.
