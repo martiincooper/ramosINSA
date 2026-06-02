@@ -1,0 +1,31 @@
+Domaine Scientifique de la DOUA20, Avenue Albert Einstein - 69100 Villeurbanne
+Exact and approached optimizationExact and approached optimization
+IDENTIFICATION
+CODE : GI-4-S1-EC-OEA
+ECTS : 2
+HOURS
+Cours : 0h
+TD : 0h
+TP : 28h
+Projet : 0h
+Evaluation : 0h
+Face à face pédagogique :28h
+Travail personnel : 12h
+Total : 40h
+ASSESMENT METHOD
+Lab: 100 %
+TEACHING AIDS
+Slides et Polycopié
+TEACHING LANGUAGE
+French
+CONTACT
+M. VERCRAENE Samuel :samuel.vercraene@insa-lyon.fr
+M. MONTEIRO Thibaud :thibaud.monteiro@insa-lyon.fr
+AIMS
+This course belongs to teaching unit Option (GI-4-S1-UE-OPTN) and contributes to thefollowing skills : Provide the basis of operational research (concepts, methods, models) for industrialengineers. Enable the students to master linear programming, integer linear programming, graphtheory, to model and solve industrial and logistic problems, using optimization sofwares.
+CONTENT
+The first half of the course alternates between 2-hour lectures and practical sessions,introducing the main concepts of exact optimization and key metaheuristics. It covers areview of linear programming and the simplex method, as well as complexity, integerlinear programming, path-based heuristics, and population-based heuristics. 
+The second half of the course is dedicated to a project. In 2024-25, it focused on a two-tier urban logistics problem, where a truck tour supplies depots, and bicycles then collectgoods from the depots to deliver them to customers' homes. A code implementing analgorithmic solution to the problem is provided. Students are then required to replace thesolution components with more advanced exact or heuristic methods.
+BIBLIOGRAPHY
+PRE-REQUISITES
+Probability and statisticsAlgorithmicsProgrammingInteger Linear programming

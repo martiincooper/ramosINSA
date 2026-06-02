@@ -1,0 +1,32 @@
+Domaine Scientifique de la DOUA20, Avenue Albert Einstein - 69100 Villeurbanne
+Introduction to Supply ChainIntroduction to Supply Chain
+IDENTIFICATION
+CODE : GI-3-S2-EC-ISC
+ECTS : 3
+HOURS
+Cours : 6h
+TD : 28h
+TP : 12h
+Projet : 0h
+Evaluation : 2h
+Face à face pédagogique :48h
+Travail personnel : 12h
+Total : 60h
+ASSESMENT METHOD
+IE (interrogation écrite) 80%ES (évaluation en situation) 20%
+TEACHING AIDS
+Course and TD support Exercises + Case studies
+TEACHING LANGUAGE
+French
+CONTACT
+Mme LADIER Anne-Laure :anne-laure.ladier@insa-lyon.fr
+AIMS
+This course belongs to teaching unit Supply chain management (GI-3-S2-UE-GECL) andcontributes to the following skills : A1 Analyze a system (real or virtual) or a problem (Level 2)A2 Operate a model of a real or virtual system (Level 2)A5 Process data (Level 2)A6 Report on an analysis or on a scientific approach (Level 2)C1 Observing, measuring, analyzing and interpreting an activity or a system from data(Level 2)C2 Modeling and designing an information, decision and production system, of goodsand services (Level 2)C3 Evaluating, prototyping and simulating a system (Level 2)C8 Managing supply in connection with the planning and inventory management policy(Level 2)C9 Localizing and assigning the production, storage and transportation processes todifferent members of the supply chain (Level 2)C11  Understanding  and  evaluating  a  structure  holistically,  through  socio-economicframes of reference (Level 1)B5 act responsibly in a complex world (Level 1)B6  position  oneself,  work,  and  evolve  within  a  company  or  a  socio-productiveorganization (Level 2)
+By  allowing  the  engineering  students  to  work  and  be  evaluated  on  the  followingknowledge :- Forecasting methods, N&OP and their link with Demand management (A1, A2, C2, C8)- Supply chain models (C2, C8, C9, B6)- VBA syntax and event driven programing paradigm (C2)- Bullwhip effect in the supply chain (C3)
+To be able to :- Identify the main functions of an industrial company, their operational logic, and theirmanagement methods. (C11, B6)- Characterize the relationships of the company with its environment and within its supplychain, and the associated processes. (C2, C8, C9, B5, B6)- Import and filter data using VBA syntax (A1, A2, A5, C1, C2)- Manipulate event driven programming with VBA (user interaction and time trigger) (A2,A5, C2)- Understand the problem of forecast management (A1, A2, C2, C8)- Understand the stakes of the sales and operations planning (S&OP) and its link with(A1, A2, C2, C8)- Select and apply a forecasting method adapted to a given context (A1, C1)- To calculate the intermediate management balances, indicators, and ratios derived fromthe income statement and balance sheet. (A1, A6, C1, C11)
+CONTENT
+- Corporate structure- Introduction to supply chain, SCOR Model- Forecasting methods, S&OP, demand management- case study: forcasting and statistical models & VBA programming for data import andfiltering- business finance (income statment , balance sheet), sustainable finance- Beer game
+BIBLIOGRAPHY
+IDRISSI N, P. KNOCKAERT et M. CATTAN, Maîtriser les processus de l'entreprise.Organisation, 2001MARION A. /Collectif, Le diagnostic d¿entreprise. Méthode et processus. Economica,1999BAGLIN G., BRUEL O., GARREAU A., GREIF M., Van DELF C., Management Industrielet Logistique, Economica, 1996.GIARD V. Gestion de la production et des flux, 3e édition, Economica, 2003.JAVEL G. Organisation et gestion de la production, Masson, 1997.BOURBONNAIS R. et USUNIER J.C., Prévision des ventes, Economica 3nd éd. 2001.GOODRICH R., Applied statistical forcasting, Business Forcast System, 1992LEWANDOWSKI R., La gestion prévisionnelle à court terme, Dunod, 1985MARICOURT R., La prévision des ventes, PUF, 1985
+PRE-REQUISITES
+AlgorithmsBasic Excel functions

@@ -1,0 +1,33 @@
+Domaine Scientifique de la DOUA20, Avenue Albert Einstein - 69100 Villeurbanne
+Design, sizing and performance analysis of a control systemDesign, sizing and performance analysis of a control system
+IDENTIFICATION
+CODE : GI-3-S2-EC-CDA
+ECTS : 3
+HOURS
+Cours : 0h
+TD : 26h
+TP : 20h
+Projet : 0h
+Evaluation : 2h
+Face à face pédagogique :48h
+Travail personnel : 12h
+Total : 60h
+ASSESMENT METHOD
+ES (évaluation en situation)ES (évaluation en situation)ES (évaluation en situation)ES (évaluation en situation)
+TEACHING AIDS
+The pedagogic form will insist onthe  transcription  of  analyticalexpression to plant reality.Support are handout and annales
+TEACHING LANGUAGE
+French
+CONTACT
+MME SUBAI Corinne :corinne.subai@insa-lyon.fr
+AIMS
+This course belongs to teaching unit Pilotage des systèmes industriels (GI-3-S2-UE-PISI) and contributes to the following skills : C2 Modeling and designing an information, decision and production system, of goodsand services (Level 3)C3 Evaluating, prototyping and simulating a system (Level 3)C4 Sizing the hardware and / or software of a system (Level 3)C8 Managing supply in connection with the planning and inventory management policy(Level 3)C9 Localizing and assigning the production, storage and transportation processes todifferent members of the supply chain (Level 3)C17 Identifying, formalizing and contractualising the requirements of a client, followingtheir evolution and validating their compliance (requirements traceability) (Level 3)B2 Work, learn, progress autonomously (Level 3)
+By  allowing  the  engineering  students  to  work  and  be  evaluated  on  the  followingknowledge :- Modeling and designing an information, decision and production system, of goods andservices (C2)- Evaluating, prototyping and simulating a system (C3)- Managing supply in connection with the planning and inventory management policy(C8)
+To be able to :- Identifying, formalizing and contractualising the requirements of a client, following theirevolution and validating their compliance (requirements traceability) (C17)- Sizing the hardware and / or software of a system (C4)-  Localizing  and  assigning  the  production,  storage  and  transportation  processes  todifferent members of the supply chain (C9)- Work, learn, progress autonomously (B2)
+CONTENT
+Part 1 : Petri Nets (PN)1.1 Introduction to the resource/flow paradigm1.2 Autonomous PN (definition, properties)1.3 Non-autonomous PN (synchronised, temporal)1.4 Analysis (dimensionning and performance assessment)
+Partie 2 : Queueing Nets (QN)2.1 Introduction to the customer/server paradigm2.1 Markov Chains and state equation2.2 Performance indicators2.3 Conventional Station2.4 Markov Net limited to product form
+BIBLIOGRAPHY
+Du grafcet aux réseaux de Petri, R. David, H. Alla HERMES 1989.Modélisation des systèmes de production, J.M. Proth, X. Xie DUNOD 1992.Introduction to DES, M. Cassandras, S. Lafortune, Wiley et sons 1999.Modelling with generalized stochastic Petri Nets, A. Marsan, S. Donatelli Willey et sonsLtd 1995.Processus  stochastiques,  Alan  Ruegg,  méthodes  mathématiques  pour  l'ingénieur,presses polytechniques romandes, Lausanne, 1989.Network flow programming, by P. A. Jensen and J. W. Barnes, John Wiley and Sons,Inc., New York, 1980.
+PRE-REQUISITES
+Bachelor Eng.Automatic ControlDiscrete MathematicGraph TheoryProbability and Statistics

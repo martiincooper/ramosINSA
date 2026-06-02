@@ -1,0 +1,32 @@
+Domaine Scientifique de la DOUA20, Avenue Albert Einstein - 69100 Villeurbanne
+Manufacturing processes, industrializationManufacturing processes, industrialization
+IDENTIFICATION
+CODE : GI-3-S1-EC-PFI
+ECTS : 3
+HOURS
+Cours : 0h
+TD : 40h
+TP : 8h
+Projet : 0h
+Evaluation : 0h
+Face à face pédagogique :48h
+Travail personnel : 0h
+Total : 48h
+ASSESMENT METHOD
+Written AssessmentSupervised Practical Work
+TEACHING AIDS
+Teaching MethodA  project  provides  a  commonthread- 1 lecture session followed by 2tutorial sessions- Work in groups of 2 peopleThe practical work is organized ingroups  of  3  students  and  takesplace on a machine tool
+TEACHING LANGUAGE
+French
+CONTACT
+M. ARNAUD Frédéric :frederic.arnaud@insa-lyon.fr
+AIMS
+This course belongs to teaching unit Conception de produits et systèmes industriels(GI-3-S1-UE-CPSI) and contributes to the following skills : A1 Analyze a system (real or virtual) or a problem (Level 1)A3 Implement an experimental approach (Level 3)A6 Report on an analysis or on a scientific approach (Level 3)C2 Modeling and designing an information, decision and production system, of goodsand services (Level 2)C3 Evaluating, prototyping and simulating a system (Level 1)C6 Selecting appropriate production tools, integrating them into an environment andconfiguring them, and setting up a production system (Level 3)C13 Considering technological and methodological innovation (Level 2)B2 work, learn, progress autonomously (Level 2)
+By  allowing  the  engineering  students  to  work  and  be  evaluated  on  the  followingknowledge :- Mold design; - Precedence constraints in machining; - Isostatism; - Cutting parameters.
+To be able to :- (A1, A3, A6, C2, C3, C6, C13, B2)Design  a  mechanical  manufacturing  sequence  by  choosing  a  suitable  material,designing a metal mold, respecting the geometric constraints, taking into account theeconomic constraints and machine capabilities
+CONTENT
+Mold design; precedence constraints in machining; Isostatism; cutting parameters 
+BIBLIOGRAPHY
+Précis de construction mécanique. Projets-méthodes, Production, Normalisation ISBN :2-09-194002-XFabrication par usinage. 2e édition ISBN : 978-2-10-051626-1PRÉCIS DE FONDERIE MÉTHODOLOGIE, PRODUCTION ET NORMALISATION ISBN: 2-09-194019-4Fonderie de précision à modèle perdu ISBN : 2-85330-100-1
+PRE-REQUISITES
+None

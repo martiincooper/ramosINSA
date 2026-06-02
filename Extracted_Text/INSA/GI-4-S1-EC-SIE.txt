@@ -1,0 +1,30 @@
+Domaine Scientifique de la DOUA20, Avenue Albert Einstein - 69100 Villeurbanne
+Business Information SystemsBusiness Information Systems
+IDENTIFICATION
+CODE : GI-4-S1-EC-SIE
+ECTS : 3
+HOURS
+Cours : 6h
+TD : 16h
+TP : 18h
+Projet : 0h
+Evaluation : 2h
+Face à face pédagogique :42h
+Travail personnel : 18h
+Total : 62h
+ASSESMENT METHOD
+Situational  assessment  Groupscore
+TEACHING AIDS
+Project Subject, Company DataReadings to be done before somesessions  (theoreticalcomplements) Methodological  guides  presentedduring the sessions
+TEACHING LANGUAGE
+French
+CONTACT
+MME GZARA Lilia :lilia.gzara@insa-lyon.fr
+AIMS
+This course belongs to the Management and Exploitation of Company Data (GI-4-S1-UE-GEDE) teaching unit and contributes to the following skills: By allowing the student to work and be evaluated on the following knowledge: - BPMN modeling - Process Value Analysis - Evaluation of the performance of a process - Process mining - The various industrial information systems By allowing the student to work and be evaluated on the following abilities: - Model a complex business process - Diagnose a business process in terms of inefficiencies and non-value-added tasks/flows - Identify and evaluate business process improvement solutions - Specify the information system supporting a business process
+CONTENT
+This course is conducted as a team project and is based on an industrial case. Theobjective of the project is to carry out a preliminary study for the modernization of amanufacturing company's information system. This preliminary study includes severalphases: (1) Analysis of the existing situation (AS-IS) through the modeling of currentbusiness  processes,  the  diagnosis  of  these  processes  and  the  identification  ofimprovement  solutions;  (2)  Design  of  an  improvement  solution  (TO-BE)  through  themodeling of new processes and the specification of a software/hardware solution tosupport the new organization (without however developing it).
+BIBLIOGRAPHY
+1. Marlon Dumas, Marcello La Rosa, Jan Mendling, Hajo A. Reijers. "Fundamentals ofBusiness  Process  Management".  Editions  Springer,  ISBN  :9783662565094  /3662565099, 2018, 527 pages2. Heru Susanto, Fang-Yie Leu, Chin Kang Chen. "Business Process Reengineering: AnICT Approach". Editions Apple Academic Press, ISBN :9780429949302 / 0429949308,2019, 248 pages3. W.M.P. van der Aalst. "Process Mining: Data Science in Action". Editions Springer-Verlag, 2016. http://www.springer.com/978-3-662-49850-7
+PRE-REQUISITES
+- Process Modeling (BPMN) - Object-oriented modeling (UML)

@@ -1,0 +1,28 @@
+Domaine Scientifique de la DOUA20, Avenue Albert Einstein - 69100 Villeurbanne
+Internal Supply chain and facility Internal Supply chain and facility 
+IDENTIFICATION
+CODE : GI-5-S1-EC-IFD
+ECTS : 3
+HOURS
+Cours : 0h
+TD : 26h
+TP : 0h
+Projet : 0h
+Evaluation : 2h
+Face à face pédagogique :28h
+Travail personnel : 30h
+Total : 58h
+ASSESMENT METHOD
+TEACHING AIDS
+James  A.  Tompkins,  2010,Facilities  Planning,  John  Wiley  &Sons IncMikell  P.  Groover,  2016,  WorkSystems:  The  Methods,Measurement  &  Management  ofWork, PEARSON edition
+TEACHING LANGUAGE
+English
+CONTACT
+M. BABOLI Armand :armand.baboli@insa-lyon.fr
+AIMS
+CONTENT
+1- Introduction to facility design a. Relationship between the product, process and scheduling design and the facilitydesignb. Flow system (Flow shop, Job Shop, cellular manufacturing, Fixed-position) c. Process modeling and material flow analysis (Process Flowchart, IDEF0)d. Activity relationship2- Requirements of Manufacturing Facility (plant) design a. Motion and Time studyb. Capacity determination (machine, human resource)c. Performance measurement 3- Material Handling system, Storage and Wearhouse system designa. Type of material handling (receiving and shipping, dock equipment, moving equipmentb. Type of Storage and Warehousing (Picking cart, Piking truck, vertical Wearhouse,Automated Wearhouse) c. Transfer Line (Straight Line Flow, Circular Flow, U-Flow, Spine-Flow)d. Equipment selection and Capacity determination4- Cellular Manufacturing System (CMS) designa. Clustering approach (Rank ordering, clustering, similarity coefficient, mathematicalprogramming) b. Designing and planning issues of CMS (capacity, material handling, layout) 5- Facility Layout a. Basic layout types b. Multi-floor facility layout,c. Service layoutd. Flow shop ad line balancing e. Job shop and department location problem f. Development alternativesg. Mathematical modeling and Algorithms 6- Flexible Manufacturing System (FMS) design and optimization: (types of flexibilities,flexibilities  classification,  flexibility  modeling  and  measurement,  decision-making  andoptimization of the level of flexibility) 7- Industry 4.0 (Cyber Physical system, IIoT, Data Analytics and prescription of decision) 8-Configuration and experimentation of a flexible manufacturing system: Practical workon the Smart Factory platform (cyber-physical system).
+BIBLIOGRAPHY
+S. Heragu, 2008, Facilities Design, CRC Press Inc; Third Edition, Ralph M. Barnes, Motion and Time Study: Design and Measurement of Work, 1980Alberto  Garcia-Diaz  &  J.  MacGregor  Smith,  2024,  Facilities  Planning  and  Design,Springer
+PRE-REQUISITES
+Mathematical modeling and optimization, Statistic and Probability, Liner programming,Inventory management, Lean manufacturing 

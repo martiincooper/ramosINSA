@@ -1,0 +1,29 @@
+Domaine Scientifique de la DOUA20, Avenue Albert Einstein - 69100 Villeurbanne
+Industry of the future - ProjectIndustry of the future - Project
+IDENTIFICATION
+CODE : GI-5-S1-EC-IFU
+ECTS : 2
+HOURS
+Cours : 0h
+TD : 0h
+TP : 20h
+Projet : 0h
+Evaluation : 0h
+Face à face pédagogique :20h
+Travail personnel : 20h
+Total : 40h
+ASSESMENT METHOD
+Report and oral presentation.
+TEACHING AIDS
+To be determined.
+TEACHING LANGUAGE
+French
+CONTACT
+M. HADJ HAMOU Khaled :khaled.hadj-hamou@insa-lyon.fr
+M. MONCLA Ludovic :ludovic.moncla@insa-lyon.fr
+AIMS
+"This course belongs to teaching unit Industrie 4.0 (GI-5-S1-UE-INQZ) and contributes tothe following skills : A1 Analyze a system (real or virtual) or a problem (Level 3)A3 Implement an experimental approach (Level 3)A5 Process data (Level 3)C1 Observing, measuring, analyzing and interpreting an activity or a system from data(Level 3)C5 Managing a production system and react to malfunctions (Level 3)C6 Selecting appropriate production tools, integrating them into an environment andconfiguring them, and setting up a production system (Level 1)C9 Localizing and assigning the production, storage and transportation processes todifferent members of the supply chain (Level 1)C13 Considering technological and methodological innovation (Level 3)B3 interact with people and work in a team (Level 3)
+CONTENT
+BIBLIOGRAPHY
+PRE-REQUISITES
+Python (Jupyter) programming.Pulp language (CPLEX/GUROBI solver mathematical programming MIP langage).Courses: GI-4-S1-EC-ISD and GI-5-S1-EC-OTL

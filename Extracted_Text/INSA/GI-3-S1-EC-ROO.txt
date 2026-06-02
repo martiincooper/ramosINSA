@@ -1,0 +1,32 @@
+Domaine Scientifique de la DOUA20, Avenue Albert Einstein - 69100 Villeurbanne
+Operational research and optimizationOperational research and optimization
+IDENTIFICATION
+CODE : GI-3-S1-EC-ROO
+ECTS : 3
+HOURS
+Cours : 0h
+TD : 18h
+TP : 12h
+Projet : 0h
+Evaluation : 2h
+Face à face pédagogique :32h
+Travail personnel : 8h
+Total : 40h
+ASSESMENT METHOD
+IE (interrogation écrite)EE  (évaluation  écrite:  poster,rapports)
+TEACHING AIDS
+Available on caseine.org:-  lecture  notes  (in  English  andFrench)-  virtual  programming  labs  toimplement and test the programsas self-training (in English)- quiz to check your understanding(in English)-  French  /  English  glossary  +crossword puzzles
+TEACHING LANGUAGE
+FrenchEnglish
+CONTACT
+Mme LADIER Anne-Laure :anne-laure.ladier@insa-lyon.fr
+AIMS
+This  course  belongs  to  teaching  unit  Informatique  et  mathématiques  décisionnelles(GI-3-S1-UE-IMAD) and contributes to the following skills : A1 Analyze a system (real or virtual) or a problem (Level 2)A2 Operate a model of a real or virtual system (Level 2)C2 Modeling and designing an information, decision and production system, of goodsand services (Level 2)C3 Evaluating, prototyping and simulating a system (Level 1)C4 Sizing the hardware and / or software of a system (Level 1)C5 Managing a production system and react to malfunctions (Level 1)C8 Managing supply in connection with the planning and inventory management policy(Level 1)C9 Localizing and assigning the production, storage and transportation processes todifferent members of the supply chain (Level 1)
+By  allowing  the  engineering  students  to  work  and  be  evaluated  on  the  followingknowledge :- Linear programming, simplex algorithm, duality (A1, A2, C2)- Integer linear programming, branch&bound algorithm (A1, C2)- Use of Excel Solver and OpenSolver for decision support (xA2, C2, C3)
+To be able to :- Specify a linear program in integer or real variables from the description of a problemexpressed in natural language (C2, C3)-  Design  a  decision  support  tool  for  the  management  of  a  production  or  transportprocessDesign a decision support tool for the management of a production or transport process(A1, A2, C2, C4, C5, C8, C9)- Identify the classic problem class to which a given real problem relates (A1, C2)
+CONTENT
+Introduction to operations research and its industrial applicationsModeling in linear programming, graphical solvingSimplex algorithmDuality and sensitivity analysisBranch & BoundModeling  in  integer  linear  programming;  modeling  tips;  concepts  of  complexity  andformulation qualityBackpack and bin-packing problemModeling  in  PL/PLNE  with  Excel:  application  to  a  lot-sizing  problem  with  capacityconstraintsCoverage and partition issuesTraveling Salesman (TSP) and Vehicle Routing (VRP) Issues
+BIBLIOGRAPHY
+- Dinkel J. J., G. A. Kochenberger and D. R. Plane, Management Science Text andApplications, Irwin Editor, 1978, ISBN 0-256-02037-X- Taha H. A., Operations Research an introduction, Sixth edition, Prentice Hall, 1997,ISBN 0-13-272915-b
+PRE-REQUISITES
+- Linear algebra (matrix calculation),- Production management (MRP, concept of independent / dependent need).- Use of simple Excel functions

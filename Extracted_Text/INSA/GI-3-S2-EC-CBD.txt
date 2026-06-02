@@ -1,0 +1,32 @@
+Domaine Scientifique de la DOUA20, Avenue Albert Einstein - 69100 Villeurbanne
+Database design and information systems architectureDatabase design and information systems architecture
+IDENTIFICATION
+CODE : GI-3-S2-EC-CBD
+ECTS : 3
+HOURS
+Cours : 0h
+TD : 30h
+TP : 16h
+Projet : 0h
+Evaluation : 2h
+Face à face pédagogique :48h
+Travail personnel : 8h
+Total : 56h
+ASSESMENT METHOD
+IE (interrogation écrite)ES (évaluation en situation)
+TEACHING AIDS
+Slides
+TEACHING LANGUAGE
+French
+CONTACT
+Mme  SANDOZ-GUERMONDFrançoise :francoise.sandoz-guermond@insa-lyon.fr
+AIMS
+This course belongs to teaching unit Conception et gestion des systèmes d'informations(GI-3-S2-UE-CGSI) and contributes to the following skills : A1 Analyze a system (real or virtual) or a problem (Level 2)A2 Operate a model of a real or virtual system (Level 2)A5 Process data (Level 2)C2 Modeling and designing an information, decision and production system, of goodsand services (Level 2)
+By  allowing  the  engineering  students  to  work  and  be  evaluated  on  the  followingknowledge :- (A1, C2)
+To be able to :- (A1, A5, C2, A2)* Design and size systems required for a given activity of production, service, distribution...* Identify and correct discrepancies in a continuous improvement process (material,human and information systems) by the implementation of analytical and simulation tools
+* Ensure quality reporting through the establishment of appropriate indicators, based ona systemic view of organizations (matrix, silo, project) for any scope and any type ofactivity"
+CONTENT
+Know :- Architecture of a Data base system management- Model entity - association- Functionnal and multivaluate dependances- Transitive closure notion, Minimal cover- Normal forms- Relationnal algebra, calculus- SQL language- Structure of a XML document, Wellformed XML document- Document type definition, XSLT documentTo be able to :- Design an entity/association model- Translate an entity/association model to relationnal model- Write querries in relationnel algebra, in SQL - Write a well formed XML document- Validate a XML document from a DTD- Transform a XML document with XSLT language 
+BIBLIOGRAPHY
+C. Chrisment, "Mise en oeuvre des bases de données" ¿ Ed. Eyrolles 1990H.F. Korth, A. Silbershats, "Systèmes de gestion de base de données", Mc Graw-Hill,1988C. Marée, G. Ledant, "SQL : Initiation, programmation et maîtrise" - Armand Colin, 1994K. Williams, M. Brundage : XML et les bases de données - Ed. Eyrolles 2001
+PRE-REQUISITES

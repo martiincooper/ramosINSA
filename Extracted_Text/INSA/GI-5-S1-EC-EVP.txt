@@ -1,0 +1,30 @@
+Domaine Scientifique de la DOUA20, Avenue Albert Einstein - 69100 Villeurbanne
+Performance evaluationPerformance evaluation
+IDENTIFICATION
+CODE : GI-5-S1-EC-EVP
+ECTS : 2
+HOURS
+Cours : 0h
+TD : 16h
+TP : 0h
+Projet : 0h
+Evaluation : 0h
+Face à face pédagogique :16h
+Travail personnel : 20h
+Total : 40h
+ASSESMENT METHOD
+Individual AssessmentCollective case study
+TEACHING AIDS
+Course and TD support Exercises + Case studies
+TEACHING LANGUAGE
+English
+CONTACT
+Mme TRILLING Lorraine :lorraine.trilling@insa-lyon.fr
+AIMS
+At the end of this teaching module, students should be able to:- Define, characterise and formalise the needs of a decision-maker (5 and H)- Propose a clear and legible format that is easy to understand, straightforward andunique. - Take into account the maintainability and robustness of indicators when constructing adashboard. - Analyse indicator results, draw up a diagnosis and identify levers for action.- Identify statistical biases and minimise them when proposing solutions.- Demonstrate critical thinking when assessing results- Demonstrate objectivity and neutrality in the choice of indicator and its presentation.
+CONTENT
+Teaching programme: lecture/tutorial,  4  x  2h  sessions:  theoretical  input  on  performance  evaluation,  withexamples and exercisesProject, 4 hours supervised + 4 hours independent + 4 hours feedback: practical casestudy
+BIBLIOGRAPHY
+Setiawan,  Indra  &  Purba,  Humiras.  (2020).  A  Systematic  Literature  Review  of  KeyPerformance Indicators (KPIs) Implementation. Journal of Industrial Engineering andManagement. 1. 200-208. 10.7777/jiemar.v1i3.79. Berrah Lamia, « Indicateur de performance : concepts et application », Edition Eyrolles,2002
+PRE-REQUISITES
+Introduction to Supply Chain

@@ -1,0 +1,29 @@
+Domaine Scientifique de la DOUA20, Avenue Albert Einstein - 69100 Villeurbanne
+DependabilityDependability
+IDENTIFICATION
+CODE : GI-4-S1-EC-SDF
+ECTS : 2
+HOURS
+Cours : 0h
+TD : 16h
+TP : 12h
+Projet : 0h
+Evaluation : 0h
+Face à face pédagogique :28h
+Travail personnel : 12h
+Total : 40h
+ASSESMENT METHOD
+TEACHING AIDS
+TEACHING LANGUAGE
+French
+CONTACT
+M. DUMITRESCU Emil :emil.dumitrescu@insa-lyon.fr
+M. ZAMAI Eric :eric.zamai@insa-lyon.fr
+AIMS
+This course belongs to teaching unit Option (GI-4-S1-UE-OPTN) and contributes to thefollowing skills : Knowledge :- Defining a rationale for dimensioning - MTBF MTTF MTTR - State graph, Markov chain - Fault Tree, Reliability Diagram - Decision support Capacities :- Apprehend the phenomena of malfunctioning - Preliminary Risk Analysis - Lifetime, Reliability, Availability, Maintainability of material and organisational structures - Contract, commitment and penalties - Negotiate solutions to increase fault tolerance - Performance indicators - Dimensioning
+CONTENT
+Dependabilty assesment methods
+BIBLIOGRAPHY
+Sûreté de Fonctionnement des systèmes matériels, A. Villemeur, Edt EyrollesReliability Eng., Elsevier
+PRE-REQUISITES
+Stochastic processMarkov ChainsProbability

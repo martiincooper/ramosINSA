@@ -1,0 +1,31 @@
+Domaine Scientifique de la DOUA20, Avenue Albert Einstein - 69100 Villeurbanne
+Industrial ecology and circular economyIndustrial ecology and circular economy
+IDENTIFICATION
+CODE : GI-4-S1-EC-EIE
+ECTS : 2
+HOURS
+Cours : 0h
+TD : 26h
+TP : 0h
+Projet : 0h
+Evaluation : 2h
+Face à face pédagogique :28h
+Travail personnel : 12h
+Total : 40h
+ASSESMENT METHOD
+Written examinationReport
+TEACHING AIDS
+Powerpoint slidesSustainable  development  andsocietal  responsibility  seriousgame (CIPE)
+TEACHING LANGUAGE
+FrenchEnglish
+CONTACT
+M. ARBAOUI Taha :taha.arbaoui@insa-lyon.fr
+AIMS
+This course belongs to teaching unit Continuous improvement and innovation(GI-4-S1-UE-AMCI) and contributes to the following skills : A1 Analyze a system (real or virtual) or a problem (Level 2)A2 Operate a model of a real or virtual system (Level 2)C1 Observing, measuring, analyzing and interpreting an activity or a system from data(Level 2)C2 Modeling and designing an information, decision and production system, of goodsand services (Level 2)C3 Evaluating, prototyping and simulating a system (Level 2)C10 Developing and implementing an action plan as part of a quality and continuousimprovement approach (Level 1)C11  Understanding  and  evaluating  a  structure  holistically,  through  socio-economicframes of reference (Level 2)C12 Changing organizations to meet new constraints or opportunities (Level 2)C20 Implementing Corporate Social Responsibility (CSR) (Level 1)B5 act responsibly in a complex world (Level 2)B6  position  oneself,  work,  and  evolve  within  a  company  or  a  socio-productiveorganization (Level 1)
+By  allowing  the  engineering  students  to  work  and  be  evaluated  on  the  followingknowledge :- Definitions of industrial ecology, circular economy and associated terminology (B5, B6)- Material Flow Analysis (A1, A2, C1, C2, C3)- Integrated Assessment Model (A1, A2, C1, C2, C3)- Waste definition, associated waste management rules, legal aspects (A1, C10)- Challenges of circular economy and reverse logistics from the industrial engineeringpoint of view (C20, B5)- Eco-parks, industrial symbiosis, synergy and mutualization (C11, C12)
+To be able to :- Propose solutions limiting the consumption and waste of resources and the productionof waste (C10, C20)- Diagnose sustainable development issues within an industrial company (C10, C11)
+CONTENT
+- Definitions- Sustainable development and societal responsibility serious game- Material Flow Analysis- Best Available Techniques- Waste- Reverse logistics- Ecoparks- Disassembly problems
+BIBLIOGRAPHY
+PRE-REQUISITES
+Notions of life cycle analysis

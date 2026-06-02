@@ -1,0 +1,30 @@
+Domaine Scientifique de la DOUA20, Avenue Albert Einstein - 69100 Villeurbanne
+Data-driven decision makingData-driven decision making
+IDENTIFICATION
+CODE : GI-4-S1-EC-DDD
+ECTS : 2
+HOURS
+Cours : 0h
+TD : 0h
+TP : 28h
+Projet : 0h
+Evaluation : 0h
+Face à face pédagogique :28h
+Travail personnel : 12h
+Total : 40h
+ASSESMENT METHOD
+Continuous control Lab report and oral presentation.
+TEACHING AIDS
+PDF ressources on moodle
+TEACHING LANGUAGE
+English
+CONTACT
+MME ROBARDET Celine :celine.robardet@insa-lyon.fr
+M. DUMITRESCU Emil :emil.dumitrescu@insa-lyon.fr
+AIMS
+This course belongs to teaching unit Option (GI-4-S1-UE-OPTN) and contributes to thefollowing skills :
+CONTENT
+- Building a Data Warehouse from raw data- Introduction to data modeling for machine learning- Methodology for the application of machine learning- Application: predictive maintenance, building a model for failure prediction- Application: Construction and operation of a model for failure prediction.
+BIBLIOGRAPHY
+PRE-REQUISITES
+Notions of relational databasesPYTHON programmingConcepts of Statistics

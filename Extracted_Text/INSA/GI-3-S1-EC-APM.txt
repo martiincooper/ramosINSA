@@ -1,0 +1,32 @@
+Domaine Scientifique de la DOUA20, Avenue Albert Einstein - 69100 Villeurbanne
+Algorithms, programming and modeling in UMLAlgorithms, programming and modeling in UML
+IDENTIFICATION
+CODE : GI-3-S1-EC-APM
+ECTS : 4
+HOURS
+Cours : 0h
+TD : 30h
+TP : 32h
+Projet : 0h
+Evaluation : 4h
+Face à face pédagogique :66h
+Travail personnel : 16h
+Total : 82h
+ASSESMENT METHOD
+1 x 1h50 = written exam
+TEACHING AIDS
+Course material
+TEACHING LANGUAGE
+French
+CONTACT
+MME  SANDOZ-GUERMONDFrancoise :francoise.sandoz-guermond@insa-lyon.fr
+M. DUMITRESCU Emil :emil.dumitrescu@insa-lyon.fr
+AIMS
+This  course  belongs  to  teaching  unit  Informatique  et  mathématiques  décisionnelles(GI-3-S1-UE-IMAD) and contributes to the following skills : A1 Analyze a system (real or virtual) or a problem (Level 2)A2 Operate a model of a real or virtual system (Level 2)A4 Design a system that meets a set of specifications (Level 2)C2 Modeling and designing an information, decision and production system, of goodsand services (Level 2)C3 Evaluating, prototyping and simulating a system (Level 2)
+* Develop an experimental approach (Level 2)* Identify, formulate and solve a problem of complex engineering (Level 2)- the following School skills : specific GI* evaluate, prototype and simulate a system (Level 2)*size the hardware and / or software of a system (Level 2)- the following transversal School skills * Work, learn, evolve in an autonomous way (Level 2)* Interact with others, work in team (Level 3)(Level 3)
+which decline the following professional skills :* Design and size systems required for a given activity of production, service, distribution...(Level 2)* Identify and correct discrepancies in a continuous improvement process (material,human and information systems) by the implementation of analytical and simulation tools(Level 2)* Ensure quality reporting through the establishment of appropriate indicators, based ona systemic view of organizations (matrix, silo, project) for any scope and any type ofactivity (Level 2)"
+CONTENT
+- Adopt a structured programming approach to solving a complex problem- Choose the solution methods and data structures appropriate for the problem- Build and analyze algorithms in a pseudo-language- Translate a UML class diagram into Python- Transcribe an algorithm written in a pseudo-language into a Python program
+BIBLIOGRAPHY
+V. FELEA, Introduction à l'informatique, Apprendre à concevoir des algorithmes, Ed.Vuibert, 2013L. DEBRAUWER, Algorithmique, Ed. ENI, 2008T.CORMEN,  C.  LEISERSON,  R.RIVEST,  C.  STEIN,  Introduction  à  l'algorithmie,  EdDunod, 2002DELANNOY C., Programmer en Java, Ed Eyrolles, 2001OUSSALAH C., Ingénierie objet, Interéditions, 1997
+PRE-REQUISITES

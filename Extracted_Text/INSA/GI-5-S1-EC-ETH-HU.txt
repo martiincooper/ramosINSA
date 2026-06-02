@@ -1,0 +1,34 @@
+Domaine Scientifique de la DOUA20, Avenue Albert Einstein - 69100 Villeurbanne
+Engineering EthicsEngineering Ethics
+IDENTIFICATION
+CODE : GI-5-S1-EC-ETH-HU
+ECTS : 2
+HOURS
+Cours : 0h
+TD : 20h
+TP : 0h
+Projet : 0h
+Evaluation : 0h
+Face à face pédagogique :20h
+Travail personnel : 20h
+Total : 40h
+ASSESMENT METHOD
+Press  review  (collective  oralpresentation)Ethical  analysis  of  professionalpractice (individual written report)
+TEACHING AIDS
+Case StudiesScientific  and  Theoretical  Articlesin Humanities and Social SciencesPress ArticlesSlideshow Presentations
+TEACHING LANGUAGE
+French
+CONTACT
+Mme ESCUDIE Marie-Pierre :marie-pierre.escudie@insa-lyon.fr
+M. LE GUENNIC Thomas :thomas.le-guennic@insa-lyon.fr
+AIMS
+The "Engineer Ethics" course aims to meet the following objectives. The details of eachare indicated in the course syllabus.
+1) Explain, using concrete examples, the types (ethical, moral, or legal), the natures(political, social, economic, and environmental), and the scales (micro, meso, macro) ofresponsibilities of the engineer.
+2) Discern the causes and stakes of an ethical problem in an engineering context, aswell as on the scale of a societal debate.
+3) Justify a stance (point of view and/or a decision) by mobilizing ethical reasoningaccording to one's role in the specified context.
+CONTENT
+Session 1: Positioning of EngineersSession 2: Socio-history of EngineersSession 3: Engineering EthicsSession 4: Session Project 1Session 5: Traditions of EthicsSession 6: Ethics of Science and TechnologySession 7: Session Project 2Session 8: Gender and Work: Raising Awareness of VSS in BusinessesSession 9: Environmental EthicsSession 10: Session Project 3Session 11: Democratic Technical ApproachSession 12: Presentations and Wrap-up
+BIBLIOGRAPHY
+Beck Ulrich, La société du risque, Paris, Flammarion, 1995.Boltanski Luc et Chiapello Ève, Le Nouvel esprit du capitalisme, Paris, Gallimard, 1999.Bonneuil Christophe et Joly Pierre-Benoît, Sciences, techniques et société, Paris, LaDécouverte, 2013.Bonneuil Christophe, Jean-Baptiste Fressoz, L 'événement anthropocène, Paris, Seuil,2016.Callon Michel & al, Agir dans un monde incertain, Paris, Seuil, 2001.Capron Michel et Quairel-Lanoizelée Françoise, La responsabilité sociale d'entreprise,Paris, La Découverte, 2016.Capron Michel et Quairel-Lanoizelée Françoise, L 'entreprise dans la société, Paris, LaDécouverte, 2015.Didier  Christelle,  "Éthique  de  l'ingénierie.  Un  champ  émergent  pour  l'éthiqueprofessionnelle", Techniques de l'Ingénieur, 2015.Dubar Claude & al., Sociologie des professions, Paris, Armand Colin, 2015.Jonas Hans, Le Principe de responsabilité, Paris, Flammarion, 1979.Latour Bruno, Petites leçons de sociologie de sciences, Paris, La Découverte, 1993.Renouard Cécile, Éthique et entreprise, Paris, L 'Atelier, 2015.Roby Catherine, Évolution du rôle social à la responsabilité sociétale des ingénieurs,Techniques de l'ingénieur, 2017.Van  de  Poel  Ibo  and  Royakkers  Lamber,  Ethics,  Technology  and  Engineering.  Anintroduction, Willey-Blacwell, 2011.Vinck Dominique et Sainsaulieu Ivan, Ingénieur aujourd'hui, Lausanne, PPUR, 2015.Vinck Dominique, Science et société, Paris, Armand Colin, 2007.
+PRE-REQUISITES
+Sociological Analysis of Organizations (ASO-4GI)Professional internship

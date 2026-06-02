@@ -1,0 +1,26 @@
+Domaine Scientifique de la DOUA20, Avenue Albert Einstein - 69100 Villeurbanne
+CybersecurityCybersecurity
+IDENTIFICATION
+CODE : GI-5-S1-EC-CYB
+ECTS : 2
+HOURS
+Cours : 0h
+TD : 6h
+TP : 12h
+Projet : 0h
+Evaluation : 2h
+Face à face pédagogique :20h
+Travail personnel : 20h
+Total : 40h
+ASSESMENT METHOD
+TEACHING AIDS
+TEACHING LANGUAGE
+French
+CONTACT
+M. ZAMAI Eric :eric.zamai@insa-lyon.fr
+AIMS
+CONTENT
+Objectives: Understand the challenges related to cybersecurity in industrial systems andthe  specific  features  of  this  field.  Understand  the  basic  elements  for  identifying  thevulnerabilities of these systems, as well as the recommendations and methodology forstrengthening the cybersecurity level of existing systems and the key points for designingnew systems. Understand the cybersecurity stakeholders in companies and support theimplementation of the approach. Understand how to communicate with IT and OT tounite teams around these new challenges.Main concepts of cybersecurity for information systems in general:Definitions of cybersecurity and main conceptsChallenges, current status, history;Classical  attacks  (MITM,  spoofing,  social  engineering,  denial  of  service,  sessionhijacking, DDOS, APT, worms);Specific attacks (malicious organizations): PLC code hijacking, takeover of the SCADA/MES information system, takeover of PLCs and industrial equipmentDuality of operational safety and cybersecurity; Examples of attacks (study, practicalwork on platform attacks);Classic vulnerabilities and attack vectors;Main principles for implementing a cybersecurity project (risk analysis, DEP, PSSI, etc.)Best practices and recommendations;Overview of norms and standards (2700X, product certification, etc.);In France, the LPM;Introduction  to  cryptography  (symmetric/asymmetric  encryption,  hash  functions,signatures, etc.).IDS modeling (SED, ECC link)Configuring industrial firewalls and understanding bad ideas.The industrial system cybersecurity project in a real environment (transfer room practicalwork);Vulnerability analysisSecurity strengtheningIn the shoes of a cyber attacker
+BIBLIOGRAPHY
+PRE-REQUISITES
+Basics of automation and different types of industrial systems;Composition of an industrial system (ECC);PLC programming languages (ECC, COP, TP API);Industrial protocols and fieldbuses (ECC);Classic network architectures (ECC, COP);Operational safety (CPS/SDF to be extended with SIL standards and consolidate FMEA+ EBIOS);Overview of norms and standards (ECC, API labs, COP, SCADA/MES)Computer Basics:Concepts of classic hardware architectures (microprocessor, memory, bus, peripherals,firmware)Operating systems (main systems used)Concepts of software architectures, databasesNetwork Basics:Main concepts and vocabulary used in this field:o 7-layer OSI model,o Data units (frame, packet, segment, etc.),o  MAC  address,  IP  address,  port  concept  (UDP/TCP),  o  Network  discovery  anddiagnostics (ARP, ICMP),o Connected (TCP) and offline (UDP) modes.Services  that  may  be  present  in  industrial  equipment  (PLC,  MES,  ERP,  HMI,  VFD,wireless terminal, etc.)o Web (HTTP) and secure Web (HTTPs),o Equipment management (SNMP, SYSLOG, etc.). VPN using a VPN gateway,router,gateway,firewall.Information systems fundamentalsData warehouses and data lakes

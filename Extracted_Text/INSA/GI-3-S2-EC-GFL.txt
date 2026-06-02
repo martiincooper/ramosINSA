@@ -1,0 +1,31 @@
+Domaine Scientifique de la DOUA20, Avenue Albert Einstein - 69100 Villeurbanne
+Flow managementFlow management
+IDENTIFICATION
+CODE : GI-3-S2-EC-GFL
+ECTS : 2
+HOURS
+Cours : 0h
+TD : 4h
+TP : 24h
+Projet : 0h
+Evaluation : 0h
+Face à face pédagogique :28h
+Travail personnel : 8h
+Total : 40h
+ASSESMENT METHOD
+Report and simulation model
+TEACHING AIDS
+Moodle
+TEACHING LANGUAGE
+FrenchEnglish
+CONTACT
+M. VERCRAENE Samuel :samuel.vercraene@insa-lyon.fr
+M. MONTEIRO Thibaud :thibaud.monteiro@insa-lyon.fr
+AIMS
+This course belongs to teaching unit Gestion de la chaîne logistique (GI-3-S2-UE-GECL)and contributes to the following skills : A1 Analyze a system (real or virtual) or a problem (Level 3)A2 Operate a model of a real or virtual system (Level 3)A3 Implement an experimental approach (Level 3)A6 Report on an analysis or on a scientific approach (Level 1)C1 Observing, measuring, analyzing and interpreting an activity or a system from data(Level 2)C2 Modeling and designing an information, decision and production system, of goodsand services (Level 3)C3 Evaluating, prototyping and simulating a system (Level 3)C4 Sizing the hardware and / or software of a system (Level 2)C9 Localizing and assigning the production, storage and transportation processes todifferent members of the supply chain (Level 2)
+By  allowing  the  engineering  students  to  work  and  be  evaluated  on  the  followingknowledge :- Physical behavior of a chain of Actuators and SensorsTo be able to :- (A1, A2, A3, A6, C1, C2, C3, C4, C9)- Apply a ¿simulation project¿ approach- Trace flows- Analyze average flows- Find the bottleneck- Make stocks functional- Sizing a production line- Propose modifications to optimize flows- Implement an experimental approach to validate the proposed modifications
+CONTENT
+Apply a "simulation project" approach1. Define Performance Indicators2. Find the data required for the simulation3. Model the problem by simplifying it4. Validate the modelFinding a BottleneckPropose changes to optimize flows Implementing tools and fundamentals of industrial engineering in a simulation project:Stock management, Experimental design, Stochastic processes, Queueing systems...
+BIBLIOGRAPHY
+PRE-REQUISITES
+Production management,Experimental design,Stochastic processes,Queueing systems

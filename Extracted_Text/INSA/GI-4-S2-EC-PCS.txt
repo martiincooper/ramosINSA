@@ -1,0 +1,31 @@
+Domaine Scientifique de la DOUA20, Avenue Albert Einstein - 69100 Villeurbanne
+Piloting and management of an industrial systemPiloting and management of an industrial system
+IDENTIFICATION
+CODE : GI-4-S2-EC-PCS
+ECTS : 1
+HOURS
+Cours : 0h
+TD : 12h
+TP : 0h
+Projet : 0h
+Evaluation : 0h
+Face à face pédagogique :12h
+Travail personnel : 0h
+Total : 12h
+ASSESMENT METHOD
+For  a  group,  evaluation  on  thereport and the application and foreach  student,  evaluation  on  theindividual work in the group.
+TEACHING AIDS
+Lecture notes
+TEACHING LANGUAGE
+French
+CONTACT
+M. ESCUDERO Cedric :cedric.escudero@insa-lyon.fr
+AIMS
+This course belongs to teaching unit Refresher (GI-4-S2-UE-RNIV) and contributes tothe following skills :- Specify the needs for control systems and MES;- Use an analysis and design method for a control and information system;- Implement automation and MES systems;- Analyze the results and improve physical and information systems.
+CONTENT
+Application of the course on a real system, implemented with the AIP (local sharedindustrial  workshop).  Process  and  control  analysis,  study  of  the  existing  informationsystem, design and implementation of MES new functions.
+FR - practical work in french
+BIBLIOGRAPHY
+Heiko Meyer, Franz Fuchs and Klaus Thiel, Manufacturing Execution Systems (MES):Optimal Design, Planning, and Deployment: Optimal Design, Planning, and Deployment,McGraw-Hill Education, 2009, 273 p., ISBN 0071623833
+PRE-REQUISITES
+Automated Manufacturing Systems: role, architecture, components (sensors, activators),continuous et batch process control;Information systems: role, architecture, design.Production Management: role, methods.

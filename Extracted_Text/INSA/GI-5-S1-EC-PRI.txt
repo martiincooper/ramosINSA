@@ -1,0 +1,29 @@
+Domaine Scientifique de la DOUA20, Avenue Albert Einstein - 69100 Villeurbanne
+Industrial projectIndustrial project
+IDENTIFICATION
+CODE : GI-5-S1-EC-PRI
+ECTS : 3
+HOURS
+Cours : 0h
+TD : 0h
+TP : 20h
+Projet : 0h
+Evaluation : 4h
+Face à face pédagogique :24h
+Travail personnel : 36h
+Total : 60h
+ASSESMENT METHOD
+TEACHING AIDS
+TEACHING LANGUAGE
+French
+CONTACT
+M. BABOLI Armand :armand.baboli@insa-lyon.fr
+AIMS
+This course belongs to teaching unit Group Project (GI-5-S1-UE-PROJ) and contributesto the following skills : A1 Analyze a system (real or virtual) or a problem (Level 3)A2 Operate a model of a real or virtual system (Level 1)A4 Design a system that meets a set of specifications (Level 3)A5 Process data (Level 2)A6 Report on an analysis or on a scientific approach (Level 1)C1 Observing, measuring, analyzing and interpreting an activity or a system from data(Level 2)C2 Modeling and designing an information, decision and production system, of goodsand services (Level 3)C3 Evaluating, prototyping and simulating a system (Level 3)C4 Sizing the hardware and / or software of a system (Level 3)C6 Selecting appropriate production tools, integrating them into an environment andconfiguring them, and setting up a production system (Level 3)C7 Developing and implement a sourcing strategy (Level 3)C12 Changing organizations to meet new constraints or opportunities (Level 3)C13 Considering technological and methodological innovation (Level 3)C14 Collectively managing a project: organization, communication, group coordination(Level 3)C15 Managing a project based on a master plan (planning, budgeting, definition ofmonitoring indicators) (Level 3)C16 Identifying, analyzing and controlling the risks inherent to a project (Level 3)C17 Identifying, formalizing and contractualising the requirements of a client, followingtheir evolution and validating their compliance (requirements traceability) (Level 3)
+By  allowing  the  engineering  students  to  work  and  be  evaluated  on  the  followingknowledge :- Industrial Organization (A1, A2, A4, A5, A6, C1, C2, C3, C4, C6, C7, C12, C13, C14,C15, C16, C17)- Continuous Improvement (A1, A2, A4, A5, A6, C1, C2, C3, C4, C6, C7, C12, C13, C14,C15, C16, C17)- Production Data Analysis and System Design (A1, A2, A4, A5, A6, C1, C2, C3, C4, C6,C7, C12, C13, C14, C15, C16, C17)- Material Sourcing and Replenishment (A1, A2, A4, A5, A6, C1, C2, C3, C4, C6, C7,C12, C13, C14, C15, C16, C17)
+To be able to :- Develop an organization's observation and strategic analysis capabilities (A1, A2, A4,A5, A6, C1, C2, C3, C4, C6, C7, C12, C13, C14, C15, C16, C17)
+CONTENT
+Learn how to develop a response to a call for tenders, taking into account the technical,economic, legal, and human aspects of the project.
+Each  project  is  supervised  and  led  by  an  industry  project  manager  for  six  weeks.Engineering students are grouped into teams of six.Each team, as a potential project manager, is responsible for developing solutions inresponse to specifications.At the end of the project, each team proposes and defends its technical, organizational,economic, and time-related solutions in a competitive environment to secure the projectowner's contract.These projects most often address the following aspects:- production organization, logistics,- operational safety, quality, and maintenance.
+BIBLIOGRAPHY
+PRE-REQUISITES

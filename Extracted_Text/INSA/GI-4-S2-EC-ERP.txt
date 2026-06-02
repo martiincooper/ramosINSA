@@ -1,0 +1,31 @@
+Domaine Scientifique de la DOUA20, Avenue Albert Einstein - 69100 Villeurbanne
+ERP ProjectERP Project
+IDENTIFICATION
+CODE : GI-4-S2-EC-ERP
+ECTS : 3
+HOURS
+Cours : 0h
+TD : 8h
+TP : 24h
+Projet : 0h
+Evaluation : 0h
+Face à face pédagogique :32h
+Travail personnel : 24h
+Total : 60h
+ASSESMENT METHOD
+Individual assessmentSummary  of  case  studies,screenshots
+TEACHING AIDS
+Case study student bookletOther documents on MoodleSoftware package SAP ERP Helponline
+TEACHING LANGUAGE
+French
+CONTACT
+MME BOTTA-GENOULAZ Valerie:valerie.botta@insa-lyon.fr
+AIMS
+This course belongs to teaching unit Information systems projects (GI-4-S2-UE-PRSI)and contributes to the following skills :- Mastery of an Enterprise Resource Planning (ERP) system for production planning andmanagement in a discrete production context- Consciousness raising to business process integration issues
+CONTENT
+Objective: Master the challenges of an integrated management system (ERP) to supportoperational and decision-making processes (production, sales, planning processes) byconducting case studies on a leading ERP system.
+- Introduction and discovery of SAP S/4HANA (structure, concepts, applications)- Master data for production planning and sales processes: customer, material, BOM,routing, workcenter, cost center,...-  Case  Study  :  Implementation  of  several  cross-functional  business  processes  :production planning and execution scenarii (make to stock, assemble to order), and asales management scenario-discovery of the FIORI environment on an external supply scenario
+BIBLIOGRAPHY
+Tomas J.L. (2000) : ERP et progiciels intégrés. Dunod 2ème édition.Reix  R.  (2002)  :  Systèmes  d'information  et  management  des  organisations.  Vuibert2ème éditionDunleavy J., Hurley J.R., Gibson A., Norris G., Wrigt I. (1999) : SAP/R3 Le guide dudécideur. Editions Eyrolles
+PRE-REQUISITES
+Industrial Management, Introduction to Supply Chain, Business Information SystemsBasics and methods of production management and planning; Forecasting methods, Sales & Operation PlanningKnowledge of ERP systems: content, challenges and ERP project management

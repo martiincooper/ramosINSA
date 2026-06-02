@@ -1,0 +1,33 @@
+Domaine Scientifique de la DOUA20, Avenue Albert Einstein - 69100 Villeurbanne
+Data ScienceData Science
+IDENTIFICATION
+CODE : GI-5-S1-EC-DSC
+ECTS : 3
+HOURS
+Cours : 0h
+TD : 24h
+TP : 0h
+Projet : 0h
+Evaluation : 2h
+Face à face pédagogique :26h
+Travail personnel : 30h
+Total : 60h
+ASSESMENT METHOD
+Final exam 1h50.
+TEACHING AIDS
+Slides (lectures) + Python Jupyternotebooks (practicals)
+TEACHING LANGUAGE
+English
+CONTACT
+M. MONCLA Ludovic :ludovic.moncla@insa-lyon.fr
+AIMS
+This course belongs to teaching unit Industrie 4.0 (GI-5-S1-UE-INQZ) and contributes tothe following skills : A5 Process data (Level 2)C1 Observing, measuring, analyzing and interpreting an activity or a system from data(Level 2)C2 Modeling and designing an information, decision and production system, of goodsand services (Level 1)C13 Considering technological and methodological innovation (Level 2)
+CONTENT
+The Data Science course is structured into two core parts:1. Introduction to Artificial Intelligence – This section focuses on Deep Learning andReinforcement Learning, covering key concepts such as deep neural networks (RNN,LSTM, Transformers), activation functions, optimization techniques, and loss functions. Italso explores real-world applications, including self-driving car simulations and AI-drivendecision-making.2.  Introduction  to  Natural  Language  Processing  (NLP)  –  This  section  covers  thefoundations and applications of Large Language Models (LLMs). Topics range from thehistory of NLP techniques to modern industrial applications in Customer Support, LegalTech,  and  Industry  4.0.  The  course  covers  essential  techniques  such  as  textclassification,  word/document  representation,  and  Retrieval-Augmented  Generation(RAG).The  course  includes  hands-on  labs  using  Python  and  Jupyter  notebooks,  providingpractical experience in AI and NLP model development.
+BIBLIOGRAPHY
+Charu  C.  Aggarwal.  (2023).  Neural  networks  and  deep  learning.  A  Textbook.Switzerland: Springer International Publishing.
+Nithin Buduma, Nikhil Buduma, Joe Papa (2022) Fundamentals of Deep Learning, 2ndEdition. 
+Laura  Graesser  and  Wah  Loon  Keng.  (2019)  Foundations  of  Deep  ReinforcementLearning Theory and Practice in Python. Addison-Wesley Professional.
+Daniel Jurafsky and James H. Martin. 2025. Speech and Language Processing: AnIntroduction to Natural Language Processing, Computational Linguistics, and SpeechRecognition with Language Models, 3rd edition.
+PRE-REQUISITES
+Python programmingProbability theoryIntroduction to Data Science

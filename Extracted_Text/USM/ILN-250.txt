@@ -1,0 +1,181 @@
+ 
+Página 1 de 3 
+ 
+PROGRAMA DE ASIGNATURA 
+ 
+I. IDENTIFICACIÓN DE LA ASIGNATURA. 
+Asignatura: Gestión de Investigación 
+                   de Operaciones 
+Sigla: ILN-250 Fecha de aprobación 
+08/07/2021  
+(CC.DD. Acuerdo 016/2021) 
+Créditos UTFSM: 4 
+ 
+Prerrequisitos: 
+MAT-042 
+Examen:  
+No tiene.  
+Unidad Académica 
+que la imparte 
+Créditos SCT     : 6  Departamento de  
+Industrias 
+Horas Cátedra 
+Semanal            : 3  
+Ayudantía: 
+Sí tiene.  
+Laboratorio: 
+No tiene.  
+Semestre en que se dicta 
+Impar  Par Ambos 
+X 
+Eje formativo                                              : Ingeniería Aplicada.    
+Tiempo total de dedicación a la asignatura: 179 horas cronológicas. 
+Descripción de la Asignatura. 
+El estudiante adquiere herramientas de modelado matemático, mediante la formulación de modelos 
+deterministas de optimización y estocásticos elementales, para apoyar la toma de decisiones de 
+gestión. 
+Requisitos de entrada. 
+• Aplica herramientas del cálculo diferencial, algebra lineal y geometría analítica. 
+• Utiliza conocimientos básicos de probabilidades. 
+• Utiliza planillas de cálculo (Excel) a nivel de usuario. 
+Contribución al perfil de egreso. 
+• Analizar el funcionamiento de sistemas productivos, en el ámbito industrial , para determinar 
+oportunidades de mejora tecnológica.  
+• Analizar el funcionamiento de sistemas organizacionales, en el ámbito industrial, para 
+determinar oportunidades de mejora en la gestión de organizacional. 
+• Evaluar el funcionamiento de los negocios a niv el global en el ámbito de la gestión , para 
+determinar las variables y relaciones relevantes en la construcción de objetivos de mediano y 
+largo plazo. 
+• Aplicar métodos y técnicas de la gestión y uso de la información en problemas simulados y 
+reales, para agregar valor en el proceso de diagnóstico y toma de decisiones. 
+• Aplicar métodos de investigación en el ámbito de la Ingeniería Industrial, para proponer mejoras 
+a procesos de gestión y producción. 
+Competencias Transversales Sello UTFSM: 
+• Resolución de Problemas: resuelve problemas complejos, analizando y evaluando soluciones 
+efectivas y eficientes, en función de su impacto en la organización, las personas y el medio 
+ambiente. 
+• Compromiso con la Calidad:  ejecuta las actividades profesionales con excelencia, que le 
+permitan enfrentar los retos que se presentan, guiado por un aprendizaje continuo, una 
+autoevaluación sistemática y una cultura de calidad. 
+• Manejo de las Tecnologías de Información y Comunicaciones: utiliza las tecnologías de 
+información y comunicaciones en la gestión de proyectos, la resolución de problemas y en la 
+forma de colaborar con otras personas.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Página 2 de 3 
+ 
+Resultados de Aprendizaje que se esperan lograr en esta asignatura. 
+• Formula modelos de optimización y modelos estocásticos elementales en apoyo a la toma de 
+decisiones, aplicando los conceptos de la Investigación de Operaciones.  
+• Resuelve problemas ficticios de asignación de recursos, aplicando métodos clásicos de 
+optimización.  
+• Propone alternativas de modelamiento, evaluando la rigurosidad del modelado en contraste 
+con el costo de resolución (complejidad) del mismo.  
+• Toma de decisiones de diseño, elaboración y desarrollo de productos, servicios y procesos, 
+utilizando resultados de los modelos de optimización.  
+Contenidos temáticos. 
+1. Introducción a la Investigación de Operaciones. 
+2. Programación Lineal. 
+3. Programación Entera. 
+4. Programación No-lineal. 
+5. Cadenas de Markov e Introducción a la Teoría de Colas. 
+Metodología de enseñanza y aprendizaje. 
+• Clases expositivas y demostrativas, con solución y análisis de problemas. 
+• Estudio de casos reales donde se ha aplicado un modelo de investigación operativa. 
+• Laboratorio Computacional que emplea el software Solver de Excel para la resolución de 
+problemas. 
+Evaluación y calificación de la asignatura. (Ajustado a Reglamento Institucional-Rglto. N°1) 
+Requisitos de 
+aprobación y 
+calificación  
+Esta asignatura se evalúa con:  
+Instrumento de evaluación N° % 
+Certamen 1 (C1) 1 35 
+Certamen 2 (C2) 1 35 
+Evaluaciones Complementarias (EC) 4-6 15 
+Tareas Computacionales (TC) 2 15 
+La Nota Final (NF) de la asignatura se calculará según: 
+NF = 0,35*C1 + 0,35*C2 + 0,15*EC + 0,15*TC 
+Es requisito para aprobar el curso cumplir con un: 
+• Promedio ponderado mínimo de certámenes y evaluación 
+complementaria: 
+NP = (0,70*PC+0,15*EC) /0,85) ≥ 55 y 
+• Promedio mínimo de certámenes:  
+PC ≥ 50 
+donde PC=Promedio de los dos certámenes y EC=Promedio de las 
+evaluaciones complementarias. 
+Si un alumno no cumple con algunas de las condiciones anteriores su 
+nota final NF de reprobación corresponderá a: 
+NF = NP Si NP < 55 
+   NF = PC     Si NP ≥ 55 pero PC < 50 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Página 3 de 3 
+ 
+Recursos para el aprendizaje 
+Bibliografía: 
+Texto Guía  • Hillier F. S. y Lieberman G. J., (2010). Introducción a la 
+Investigación de Operaciones.  Mc Graw Hill, 
+Interamericana. Editores, 9ª. Edición. 
+Complementaria u Opcional ● Taha, H. A., (2012). Investigación de Operaciones, una 
+introducción. Pearson Education, 9ª. Edición. 
+● Ortiz, C., Varas, S. y Vera, J., (2004) Optimización y 
+Modelos para la Gestión. J.C.Sáez. 
+ 
+II. CÁLCULO DE CANTIDAD DE HORAS DE DEDICACIÓN - (SCT-Chile)- CUADRO 
+RESUMEN DE LA ASIGNATURA. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ACTIVIDAD  
+Cantidad de horas de dedicación 
+Cantidad de horas por 
+semana 
+Cantidad de 
+semanas 
+Cantidad total de 
+horas 
+PRESENCIAL 
+Cátedra o Clases teóricas 3 17 51 
+Ayudantía/Ejercicios 1,5 15 22,5 
+Visitas industriales (de Campo)    
+Laboratorios / Taller    
+Evaluaciones (certámenes, otros)  2 2 4 
+Otras (Especificar)    
+NO PRESENCIAL 
+Ayudantía 
+   
+Tareas obligatorias 8,25 2 16,5 
+Estudio Personal ( Individual o 
+grupal) 
+5 17 85 
+Otras (Especificar)    
+TOTAL (HORAS RELOJ) 179 
+Número total en CRÉDITOS TRANSFERIBLES  6 

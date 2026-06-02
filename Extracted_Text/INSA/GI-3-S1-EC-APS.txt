@@ -1,0 +1,28 @@
+Domaine Scientifique de la DOUA20, Avenue Albert Einstein - 69100 Villeurbanne
+Automated production systemsAutomated production systems
+IDENTIFICATION
+CODE : GI-3-S1-EC-APS
+ECTS : 3
+HOURS
+Cours : 0h
+TD : 42h
+TP : 4h
+Projet : 0h
+Evaluation : 2h
+Face à face pédagogique :48h
+Travail personnel : 12h
+Total : 60h
+ASSESMENT METHOD
+IE (interrogation écrite) EE  (évaluation  écrite:  poster,rapports.) EO (évaluation orale) Oral
+TEACHING AIDS
+TEACHING LANGUAGE
+French
+CONTACT
+MME SUBAI Corinne :corinne.subai@insa-lyon.fr
+AIMS
+This course belongs to teaching unit Production management GI-3-S1-UE-PIPR andcontributes to the following skills :- Security concepts- Management of automated systems- Choice of equipment and machines
+CONTENT
+ENVIRONMENT, COMMAND CHAINS AND REALIZATION -Hydraulics, actuators, modulatorsMeasuring chainsElectric actuatorsReal case study, choice of actuators and sensors (guiding principles)
+BIBLIOGRAPHY
+Catalogues et documents constructeurSystèmes automatiques tome 1 et 2, J.-P. Hautier et J.-P. Caron Ellipses
+PRE-REQUISITES

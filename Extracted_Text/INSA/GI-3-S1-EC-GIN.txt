@@ -1,0 +1,34 @@
+Domaine Scientifique de la DOUA20, Avenue Albert Einstein - 69100 Villeurbanne
+Industrial managementIndustrial management
+IDENTIFICATION
+CODE : GI-3-S1-EC-GIN
+ECTS : 4
+HOURS
+Cours : 0h
+TD : 14h
+TP : 34h
+Projet : 0h
+Evaluation : 2h
+Face à face pédagogique :50h
+Travail personnel : 16h
+Total : 80h
+ASSESMENT METHOD
+Exercices (TD) + final examTP : MCQ
+TEACHING AIDS
+Handout
+TEACHING LANGUAGE
+French
+CONTACT
+M. MONTEIRO Thibaud :thibaud.monteiro@insa-lyon.fr
+AIMS
+This course belongs to teaching unit Pilotage de la production (GI-3-S1-UE-PIPR) andcontributes to the following skills : C2 Modeling and designing an information, decision and production system, of goodsand services (Level 2)C4 Sizing the hardware and / or software of a system (Level 3)C5 Managing a production system and react to malfunctions (Level 2)C6 Selecting appropriate production tools, integrating them into an environment andconfiguring them, and setting up a production system (Level 3)C8 Managing supply in connection with the planning and inventory management policy(Level 3)
+By  allowing  the  engineering  students  to  work  and  be  evaluated  on  the  followingknowledge :- (C8)
+To be able to :- (C2, C4, C6)- (C8)- (C5)- Place the functions and objectives of production management for a company - Manage supplies and inventory of a business- Choose the method of management best suited to a given context- Calculate the loads and manage production resources in the medium and long termTP Prelude : This lab is designed to introduce students to the various functions and thebasics of production management."
+CONTENT
+- Introduction to production management- Master data for production management-  Modelling  of  production  systems  and  manufacturing  processes  for  productionmanagement- Different levels of decision making in production management: SOP, MPS, MRP, ...- Main approaches for production planning: Inventory management, MRP, Kanban, ...
+TP Prelude: 10 sessions in a scenario based on an industrial case cover the variousfunctions by using a tutorial MIS (Prelude):- Master data (material, BOM, routing, work centers...)- Demand management : Master planning and sales orders- Material requirement planning- Production Order management- Purchase order management- Scheduling and production order follow-up
+Education provided in French
+BIBLIOGRAPHY
+"Vincent GIARD : Gestion de la production et des flux. Economica 2003Jacques Erschler et Bernard Grabot : Organisation et Gestion de la Production. TraitéIC2 Hermes 2001 Lionel Dupont : La Gestion Industrielle. Hermès 1998Management industriel et logistique, Gérard Baglin"
+PRE-REQUISITES
+Probabilities and statistics, computer sciences

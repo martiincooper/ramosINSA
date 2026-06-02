@@ -1,0 +1,27 @@
+Domaine Scientifique de la DOUA20, Avenue Albert Einstein - 69100 Villeurbanne
+Management of a machine design projectManagement of a machine design project
+IDENTIFICATION
+CODE : GI-3-S2-EC-GPC
+ECTS : 4
+HOURS
+Cours : 0h
+TD : 52h
+TP : 2h
+Projet : 0h
+Evaluation : 2h
+Face à face pédagogique :56h
+Travail personnel : 12h
+Total : 68h
+ASSESMENT METHOD
+EE+EO (évaluation écrite+orale)IE (interrogation écrite)IE (interrogation écrite)
+TEACHING AIDS
+TEACHING LANGUAGE
+French
+CONTACT
+M. ARNAUD Frédéric :frederic.arnaud@insa-lyon.fr
+AIMS
+This course belongs to teaching unit Conception de produits et systèmes industriels(GI-3-S2-UE-CPSI) and contributes to the following skills : A1 Analyze a system (real or virtual) or a problem (Level 1)A3 Implement an experimental approach (Level 2)A4 Design a system that meets a set of specifications (Level 3)A6 Report on an analysis or on a scientific approach (Level 2)C2 Modeling and designing an information, decision and production system, of goodsand services (Level 3)C4 Sizing the hardware and / or software of a system (Level 3)C10 Developing and implementing an action plan as part of a quality and continuousimprovement approach (Level 3)C12 Changing organizations to meet new constraints or opportunities (Level 3)C14 Collectively managing a project: organization, communication, group coordination(Level 3)C15 Managing a project based on a master plan (planning, budgeting, definition ofmonitoring indicators) (Level 3)C16 Identifying, analyzing and controlling the risks inherent to a project (Level 2)C17 Identifying, formalizing and contractualising the requirements of a client, followingtheir evolution and validating their compliance (requirements traceability) (Level 2)B3 interact with people and work in a team (Level 2)B4 demonstrate creativity, innovation, entrepreneurship (Level 1)
+By  allowing  the  engineering  students  to  work  and  be  evaluated  on  the  followingknowledge :- General reliability of a mechanism- Bearing calculationsTo be able to :- (C10, C12, C14, C15, C16, C17, B3, B4)- (A1, A3, A4, A6, C2, C4)- Manage a project- Design production equipment that meets productivity and safety expectations- Respect standards, costs and deadlines- Sizing a mechanically welded frame- Size bearings, belts- Sizing a tree statically and dynamically
+CONTENT
+BIBLIOGRAPHY
+PRE-REQUISITES

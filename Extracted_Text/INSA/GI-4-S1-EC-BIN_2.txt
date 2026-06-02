@@ -1,0 +1,31 @@
+Domaine Scientifique de la DOUA20, Avenue Albert Einstein - 69100 Villeurbanne
+Business IntelligenceBusiness Intelligence
+IDENTIFICATION
+CODE : GI-4-S1-EC-BIN
+ECTS : 2
+HOURS
+Cours : 0h
+TD : 4h
+TP : 14h
+Projet : 0h
+Evaluation : 2h
+Face à face pédagogique :20h
+Travail personnel : 12h
+Total : 32h
+ASSESMENT METHOD
+Written  exam  at  the  end  of  thetutorial part ("TD") Project  evaluation  :  collectivepresentation and written report
+TEACHING AIDS
+Slides
+TEACHING LANGUAGE
+English
+CONTACT
+M. DUMITRESCU Emil :emil.dumitrescu@insa-lyon.fr
+Mme SERNA Audrey :audrey.serna@insa-lyon.fr
+AIMS
+GI-4-S1-UE-GEDEGI-4-S1-EC-BINGeneral engineering skills: - Develop an experimental approach;- Identify, formulate and solve a complex engineering problem.Specific Industrial Engineering skills:- Observe, measure, analyze and interpret an activity or system from data- Modeling, designing a system of information, decision-making and production of goodsand services;- Evaluate, prototype or simulate a system.Abilities : Collect customer needs for analysis; Identify sources of production data useful for ananalytical approach; Process voluminous information for analysis; Exploit the data in theperspective of the analyzed activity: Carry out a project, working in a group.Knowledge:  operational  and  analytical  database  schemas;  Elementary  actions  andsequencing for data transformation; Methods and tools for visualizing information fromdata.
+CONTENT
+DATA WAREHOUSE 1. Dimensional modeling for decision support systems2. The Extract-Transform-Load (ETL) task : data cleaning, fusion and restructurationmethods, ETL tools (Tableau)3. Query tools and methods : reporting, scorecards, etc.
+BIBLIOGRAPHY
+Systèmes d'information décisionnels, E. Ferragu, 2013 (available at Doc'INSA)-  Piloter  l'entreprise  grâce  au  data  warehouse,  Jean-Michel  Franco,  Sandrine  deLignerolles , 2000 (available at the Industrial Eng. dept. local library)
+PRE-REQUISITES
+Relational Databases, SQL 

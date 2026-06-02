@@ -1,0 +1,30 @@
+Domaine Scientifique de la DOUA20, Avenue Albert Einstein - 69100 Villeurbanne
+MaintenanceMaintenance
+IDENTIFICATION
+CODE : GI-5-S1-EC-MTC
+ECTS : 2
+HOURS
+Cours : 0h
+TD : 6h
+TP : 12h
+Projet : 0h
+Evaluation : 2h
+Face à face pédagogique :20h
+Travail personnel : 20h
+Total : 40h
+ASSESMENT METHOD
+TEACHING AIDS
+Course and tutorials handoutsSoftwares  Carl  Source  (CMMS),Minitab  (reliability)  and  Anylogic(simulation)
+TEACHING LANGUAGE
+French
+CONTACT
+M. MOYAUX Thierry :thierry.moyaux@insa-lyon.fr
+AIMS
+This course belongs to teaching unit Excellence opérationnelle (GI-5-S1-UE-EXOP) andcontributes to the following skills : A1 Analyze a system (real or virtual) or a problem (Level 2)A2 Operate a model of a real or virtual system (Level 2)A3 Implement an experimental approach (Level 1)C1 Observing, measuring, analyzing and interpreting an activity or a system from data(Level 2)C2 Modeling and designing an information, decision and production system, of goodsand services (Level 1)C3 Evaluating, prototyping and simulating a system (Level 1)C5 Managing a production system and react to malfunctions (Level 2)
+By  allowing  the  engineering  students  to  work  and  be  evaluated  on  the  followingknowledge :- CMMS Functions- Maintenance Processes- Maintenance Optimization- Maintenance Tools: Manufacturer Documentation, Reliability, etc.To be able to :- Understanding the challenges of purchasing a CMMS (C2, C5)- Defining a maintenance policy (A1, A2, A3, C1, C3, C5)
+CONTENT
+Computerized Maintenance Management System 
+FR - lecture/tutorial/practical work in french
+* Overview of the functions of a CMMS* Maintenance process* Optimisation of maintenance* Maintenance tools (manufacturer's documentation, reliability, etc.) 
+BIBLIOGRAPHY
+PRE-REQUISITES

@@ -1,0 +1,183 @@
+ 
+Página 1 de 3 
+ 
+PROGRAMA DE ASIGNATURA 
+ 
+I. IDENTIFICACIÓN DE LA ASIGNATURA. 
+Asignatura: Gestión Estratégica Sigla: ICN-322 Fecha de aprobación 
+09/12/2021 
+(CC.DD. Acuerdo 020/2021) 
+Créditos UTFSM: 3 
+ 
+Prerrequisitos: 
+ICN-320, 
+ICN-321 e 
+ICN-323 
+Examen:  
+No tiene.  
+Unidad Académica 
+que la imparte 
+Créditos SCT     : 5  Departamento de  
+Industrias 
+Horas Cátedra 
+Semanal            : 3 
+Ayudantía: 
+No tiene. 
+Laboratorio: 
+Sí tiene. 
+Semestre en que se dicta 
+Impar  Par Ambos 
+X 
+Eje formativo             :                            Ciencias Sociales y Humanidades e Ingeniería Aplicada. 
+Tiempo total de dedicación a la asignatura: 141 horas cronológicas. 
+Descripción de la Asignatura. 
+El estudiante adquiere conceptos, teorías relacionadas con el funcionamiento estratégico de las 
+organizaciones cualquiera sea su naturaleza (públicas o privadas) y se enfrenta a procesos de 
+decisión que deben adoptar las empresas para lograr su viabilidad en los entornos complejos en los 
+cuales deben operar, utilizando tecnologías de la información. 
+El estudiante aplica un proceso de planificación estratégica y diseña un sistema de control integral de 
+gestión en una organización real. 
+Requisitos de entrada. 
+• Utiliza conceptos de marketing operacional y estratégico. 
+• Aplica conceptos de mercados y procesos de segmentación de mercados. 
+• Utiliza conceptos de finanzas: interpretar un balance, estados de resultados e indicadores 
+financieros. 
+• Utiliza conceptos de base de datos y sistemas de información. 
+• Distingue conceptos de procesos de negocios. 
+• Aplica conceptos de administración de empresas y estructura organizacional. 
+Contribución al perfil de egreso. 
+• Competencias del perfil de egreso de ICI. 
+• Evaluar el funcionamiento de los negocios a nivel global en el ámbito de la gestión, para 
+determinar las variables y relaciones relevantes en la construcción de objetivos de mediano y 
+largo plazo. 
+• Aplicar métodos y técnicas de la gestión y uso de la información en problemas simulados y reales, 
+para agregar valor en el proceso de diagnóstico y toma de decisiones. 
+• Elegir nuevos cursos de acción, ante cambios en el medio interno y externo, para adaptarse a 
+escenarios dinámicos e inciertos. 
+Competencias Transversales Sello UTFSM: 
+• Responsabilidad Social y Ética:  actúa acorde a los principios inherentes a su profesión 
+teniendo presente una conducta solidaria, comprometiéndose y respetando a los individuos, el 
+medio ambiente y la sociedad, en coherencia con el legado testamentario de Don Federico Santa 
+María Carrera. 
+• Manejo de las Tecnologías de Información y Comunicaciones:  utiliza las tecnologías de 
+información y comunicaciones en la gestión de proyectos, la resolución de problemas y en la 
+forma de colaborar con otras personas. 
+ 
+ 
+ 
+ 
+
+ 
+Página 2 de 3 
+ 
+Resultados de Aprendizaje que se esperan lograr en esta asignatura. 
+• Identifica los elementos y las relaciones de dirección estratégica, distinguiendo sus etapas. 
+• Identifica los elementos de planificación estratégica, distinguiendo su proceso. 
+• Explica las e tapas de un proceso de dirección estratégica, aplicando los modelos de 
+planificación. 
+• Analiza una organización, utilizando métodos de planificación estratégica. 
+• Elabora un diagnóstico estratégico en una organización existente, utilizando un modelo de 
+dirección estratégica. 
+• Genera propuestas estratégicas con argumentos sólidos, utilizando los análisis de los 
+antecedentes de la empresa estudiada.  
+• Valora el trabajo en equipo, contribuyendo a la consolidación y desarrollo de su grupo de 
+trabajo. 
+• Detecta mayor productividad en el trabajo común, favoreciendo el reparto equilibrado de 
+tareas. 
+Contenidos temáticos. 
+1. Introducción a la dirección estratégica. 
+2. Modelo de planificación estratégica. 
+3. Segmentación de mercados. Algoritmos de clúster. 
+4. Modelo de negocio Canvas. 
+5. Prospectiva estratégica. 
+6. Conceptos y herramientas para hacer un análisis externo e interno. 
+7. Estudio y conceptos de estrategias. 
+8. Modelo de dirección estratégica “DELTA”. 
+9. Paradigma del Rombo. 
+10. Misión y Visión en una organización. 
+11. Objetivos estratégicos. 
+12. Conceptos de sistema de control de gestión. 
+13. Cuadro de mando integral. 
+14. Modelo conceptual del software para implementar un cuadro de mando integral. 
+15. Business Intelligence. 
+16. Data Mining. 
+Metodología de enseñanza y aprendizaje 
+• Clases lectivas (expositivas) con utilización de recursos audiovisuales. 
+• Estudio y análisis de casos. 
+• Trabajo en equipo en una organización real nacional y/o internacional. 
+• Metodología de proyectos utilizando software. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Página 3 de 3 
+ 
+Evaluación y calificación de la asignatura. (Ajustado a Reglamento Institucional-Rglto. N°1) 
+Requisitos de 
+aprobación y 
+calificación  
+Esta asignatura se evalúa con:  
+Instrumento de evaluación N° % 
+Certamen 1 (C1) 1 25 
+Certamen 2 (C2) 1 25 
+Casos y ejercicios (CE) 3-6 15 
+Proyecto Grupal (PG) 1 35 
+La Nota Final (NF) de la asignatura se calculará según: 
+NF = 0,25*C1 + 0,25*C2 + 0,15*CE + 0,35*PG 
+Recursos para el aprendizaje 
+Bibliografía: 
+Texto Guía  • Hax, Arnoldo C. (2010) “The Delta Model, Reinventing your 
+business strategy”, Springer Science + Business Media. 
+Complementaria u Opcional • Kaplan, R & Norton, D (2002). “Cómo utilizar el cuadro de 
+mando integral, para implementar y gestionar su estrategia”, 
+Barcelona, España: Gestión 2000. 
+• Kaplan, R; Norton D. (2000) “The Balanced Scorecard: 
+Translating Strategy into Action”, A landmark Achievement. 
+• Saavedra, O. (2013) “Principios de Dirección Estratégica y 
+Data Mining”, Editorial USM. 
+ 
+II. CÁLCULO DE CANTIDAD DE HORAS DE DEDICACIÓN - (SCT-Chile)- CUADRO 
+RESUMEN DE LA ASIGNATURA. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ACTIVIDAD  
+Cantidad de horas de dedicación 
+Cantidad de horas  
+por semana 
+Cantidad de 
+semanas 
+Cantidad total 
+de horas 
+PRESENCIAL 
+Cátedra o Clases teóricas 3 15 45 
+Ayudantía/Ejercicios    
+Visitas industriales (de Campo) 3 4 12 
+Laboratorios / Taller 2 8 16 
+Evaluaciones (certámenes, otros)  2 2 4 
+Otras (Especificar)    
+NO PRESENCIAL 
+Ayudantía 
+   
+Tareas obligatorias 
+   
+Estudio Personal ( Individual o 
+grupal) 
+3 16 48 
+Otras (Reuniones con el profesor) 2 8 16 
+TOTAL (HORAS RELOJ) 141 
+Número total en CRÉDITOS TRANSFERIBLES  5 

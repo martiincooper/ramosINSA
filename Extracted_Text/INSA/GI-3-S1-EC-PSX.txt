@@ -1,0 +1,35 @@
+Domaine Scientifique de la DOUA20, Avenue Albert Einstein - 69100 Villeurbanne
+Probability, statistics, design of experimentsProbability, statistics, design of experiments
+IDENTIFICATION
+CODE : GI-3-S1-EC-PSX
+ECTS : 4
+HOURS
+Cours : 2h
+TD : 50h
+TP : 4h
+Projet : 0h
+Evaluation : 4h
+Face à face pédagogique :60h
+Travail personnel : 20h
+Total : 84h
+ASSESMENT METHOD
+IE (interrogation écrite)IE (interrogation écrite)IE (interrogation écrite)EE+EO (évaluation écrite+orale)
+TEACHING AIDS
+Lecture  handout  and  exercises(part  Probability  &  statistics  andpart Design of experiments)Use of spreadsheet files.Course  materials  availableelectronically.
+TEACHING LANGUAGE
+FrenchEnglish
+CONTACT
+M. FONDREVELLE Julien :julien.fondrevelle@insa-lyon.fr
+AIMS
+This  course  belongs  to  teaching  unit  Informatique  et  mathématiques  décisionnelles(GI-3-S1-UE-IMAD) and contributes to the following skills : A1 Analyze a system (real or virtual) or a problem (Level 3)A2 Operate a model of a real or virtual system (Level 3)A3 Implement an experimental approach (Level 3)A5 Process data (Level 3)A6 Report on an analysis or on a scientific approach (Level 3)C1 Observing, measuring, analyzing and interpreting an activity or a system from data(Level 3)C3 Evaluating, prototyping and simulating a system (Level 2)C8 Managing supply in connection with the planning and inventory management policy(Level 2)C10 Developing and implementing an action plan as part of a quality and continuousimprovement approach (Level 2)C15 Managing a project based on a master plan (planning, budgeting, definition ofmonitoring indicators) (Level 1)
+By  allowing  the  engineering  students  to  work  and  be  evaluated  on  the  followingknowledge :- Notion of probability, Principles of combinatorial analysis, Probability calculus (A1, A2,A3, A5, A6, C1, C3, C8, C10)- Notions of conditional probabilities and independent events (A1, A2, A3, A5, A6, C1,C3, C8, C10)-  Notion  of  random  variable,  Main  indicators  for  random  variables:  expected  value,variance... (A1, A2, A3, A5, A6, C1, C3, C8, C10)- Main probability distributions (A1, A2, A3, A5, A6, C1, C3, C8, C10)- Central limit theorem (A1, A2, A3, A5, A6, C1, C3, C8, C10)- Notions of sample, population, statistical inference (A1, A2, A3, A5, A6, C1, C3, C8,C10)- Client and supplier risks (A1, A2, A3, A5, A6, C1, C3, C8, C10)- Ponctual estimation, Confidence intervals (A1, A2, A3, A5, A6, C1, C3, C8, C10)-  One-tailed  and  two-tailed  statistical  tests,  Comparison  tests,  goodness-of-fit  tests,independence tests (A1, A2, A3, A5, A6, C1, C3, C8, C10)- Implementation of a design of experiments (C10)
+To be able to :-  Computing  the  probability  of  a  complex  event,  based  on  simple  events  or  bycombinatorial analysis (A1, A2, A3, A5, A6, C1, C3, C8, C10)- Modelling a random phenomenon choosing the appropriate probability distribution (A1,A2, A3, A5, A6, C1, C3, C8, C10)- Computing and interpreting the main indicators related to a random variable (A1, A2,A3, A5, A6, C1, C3, C8, C10)- Determining the average behaviour of a phenomenon considering a large number ofrandom trials (A1, A2, A3, A5, A6, C1, C3, C8, C10)- Carrying out a statistical test to validate a hypothesis related to a population (A1, A2,A3, A5, A6, C1, C3, C8, C10)- Estimating the parameters of a statistical population based on a sample of values (A1,A2, A3, A5, A6, C1, C3, C8, C10)- Carrying out a statistical test to validate a hypothesis related to a population (A1, A2,A3, A5, A6, C1, C3, C8, C10)- Planning the tests to be conducted (A2, A3, C15)- Carrying out the measurements (A1, C1)- Developing a computing tool to process a design of experiments (A3)
+Knowledge :- Notion of probability, Principles of combinatorial analysis, Probability calculus - Notions of conditional probabilities and independent events -  Notion  of  random  variable,  Main  indicators  for  random  variables:  expected  value,variance... - Main probability distributions - Central limit theorem - Notions of sample, population, statistical inference - Client and supplier risks - Ponctual estimation, Confidence intervals -  One-tailed  and  two-tailed  statistical  tests,  Comparison  tests,  goodness-of-fit  tests,independence tests - Optimal organization of experimentation - Regression model and mathematical predictor - Statistical model associated with the analysis of variance - Implementation of a design of experiments 
+Capacities :-  Computing  the  probability  of  a  complex  event,  based  on  simple  events  or  bycombinatorial analysis 
+- Modelling a random phenomenon choosing the appropriate probability distribution - Computing and interpreting the main indicators related to a random variable - Determining the average behaviour of a phenomenon considering a large number ofrandom trials - Computing the client / supplier risks according to a quality control procedure - Estimating the parameters of a statistical population based on a sample of values - Carrying out a statistical test to validate a hypothesis related to a population - Planning the tests to be conducted - Carrying out the measurements - Developing a computing tool to process a design of experiments - Analyzing the results obtained - Finding an optimal setup condition
+CONTENT
+The aim of this course is to introduce the engineering tools and techniques needed tomodel and analyse phenomena and systems involving uncertainties, in particular throughexperimental approaches such as design of experiments. It is based on a description ofstandard  mathematical  concepts,  coming  from,  among  others,  probability  theory,descriptive  statistics  and  analysis  of  variance.  Numerous  examples  and  applicationexercises are provided for each part of the course.The knowledge and skills acquired are also put into practice through a case study basedon  a  quality  control  problem,  enabling  the  application  of  estimation  methods  andhypothesis testing, and through the implementation of an experiment for setting up amachine (a catapult), with a Taguchi's fractional design.These different activities also lead the students to use and develop data processing toolson spreadsheets.
+BIBLIOGRAPHY
+D. Ghorbanzadeh : Probabilités - Exercices corrigés. Editions Technip. 1998.Y. Dodge : Premiers pas en statistique. Springer. 2003.S. Morgenthaler : Introduction à la statistique. Presses Polytechniques et UniversitairesRomandes. 1997.P. Bogaert : Probabilités pour scientifiques et ingénieurs: Introduction au calcul desprobabilités, 2ème édition. De Boeck Supérieur. 2020.G.  Sado,  M.C.  Sado  :  Les  plans  d'expériences.  De  l'expérimentation  à  l'assurancequalité, Nlle édition. AFNOR. 2000.M.  Vigier  :  Pratique  des  plans  d'expériences.  Méthodologie  Taguchi.  Les  Éditionsd'Organisation. 1988.J. Goupy : Introduction aux Plans d'expériences, 2ème édition. Dunod. 2001.G.  Lasnier  :  Plans  d'expériences  en  gestion  industrielle.  Hermes  science  publ.  -Lavoisier. 2003.
+PRE-REQUISITES
+None

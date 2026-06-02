@@ -1,0 +1,36 @@
+Domaine Scientifique de la DOUA20, Avenue Albert Einstein - 69100 Villeurbanne
+QualityQuality
+IDENTIFICATION
+CODE : GI-4-S1-EC-QLT
+ECTS : 1
+HOURS
+Cours : 0h
+TD : 12h
+TP : 0h
+Projet : 0h
+Evaluation : 2h
+Face à face pédagogique :14h
+Travail personnel : 6h
+Total : 20h
+ASSESMENT METHOD
+1 two-hour exam
+TEACHING AIDS
+Handout  in  English,  exercises  inEnglish,  Minitab  software  and  anonline tutorial in French
+TEACHING LANGUAGE
+FrenchEnglish
+CONTACT
+M. MOYAUX Thierry :thierry.moyaux@insa-lyon.fr
+AIMS
+GI-4-S1-UE-AMCIGI-4-S1-EC-QLTQuality - Maintenance 
+Understand  the  issues  and  tools  of  quality  (quality  process  vs.  quality  tools)  andmaintenance (impact of the organisation of quality on the other functions of companies).
+Understand the usefulness and the operation of some tools (control charts, Gage R&R,reliability, etc.).
+This EC contributes to:*  School  skills  in  Engineering  Sciences  /  Level  (1  for  sensitization,  2  for  poursensibilisation, 2 for appropriation, 3 for mastery) :. Solve questions asked by a scientific problem by being aware of limits / 3. Develop an experimental approach / 3. Implement a scientific approach / 2* School skills specific to GI:. Observing, measuring, analyzing and interpreting an activity or a system from data / 3. Managing a production system and react to malfunctions / 3.  Developing  and  implementing  an  action  plan  as  part  of  a  quality  and  continuousimprovement approach / 3. Collectively managing a project: organization, communication, group coordination / 1
+CONTENT
+FR or EN - possibility to integrate a group with lecture/practical work in english (butonline tutorial in French only)
+ONLINE TUTORIAL about Six Sigma to do without the assistance of the teacherQUALITY* General introduction: relations of quality and maintenance* Introduction to quality: definitions, goals, voice of the client, overview of tools* Six sigma : Introduction, Etapes du DMAIC, Organisation.* Overview of IS09001:2008* Control charts* Gage R&RMAINTENANCE* Introduction: Definitions, Types of maintenance*  TPM  (Total  Productive  Maintenance),  Overview,  The  8  pillars  with  details  onAutonomous  maintenance  in  Pillar  2  and  overview  of  RCM  (Reliability-CenteredMaintenance) in Pillar 3 (Planned maintenance), Lean Six Sigma* Types of maintenance, Impact of OEE (Overall Equipment Effectiveness), Frequency ofchange calculated from reliability function
+BIBLIOGRAPHY
+Bufferne  J.  (www.jean-bufferne.com),  Le  guide  de  la  TPM,  Éditions  d'Organisation,Eyrolles, 2006.
+Duret D., Pillet M., Qualité en production; De l'ISO 9000 à Six Sigma,3e édition, Editionsd'Organisation, 2005.
+Pillet M., Six Sigma; Comment l'appliquer, Editions d'Organisation, 2004.
+PRE-REQUISITES
+Probability - Statistics

@@ -1,0 +1,31 @@
+Domaine Scientifique de la DOUA20, Avenue Albert Einstein - 69100 Villeurbanne
+Piloting and management of an industrial systemPiloting and management of an industrial system
+IDENTIFICATION
+CODE : GI-4-S1-EC-PCS
+ECTS : 3
+HOURS
+Cours : 0h
+TD : 16h
+TP : 24h
+Projet : 0h
+Evaluation : 2h
+Face à face pédagogique :42h
+Travail personnel : 18h
+Total : 60h
+ASSESMENT METHOD
+IE/COP  ES  (évaluation  ensituation)P/COP ES (évaluation en situation)IE/SCADA/MES ES (évaluation ensituation)
+TEACHING AIDS
+- printed and online book- complementary docs- Moodle page- oral testimony by an industrialist
+TEACHING LANGUAGE
+French
+CONTACT
+M. ZAMAI Eric :eric.zamai@insa-lyon.fr
+AIMS
+This course belongs to teaching unit Management of industrial operations (GI-4-S1-UE-POPI) and contributes to the following skills : C1 Observing, measuring, analyzing and interpreting an activity or a system from data(Level 2)C2 Modeling and designing an information, decision and production system, of goodsand services (Level 2)C3 Evaluating, prototyping and simulating a system (Level 2)C4 Sizing the hardware and / or software of a system (Level 2)C5 Managing a production system and react to malfunctions (Level 2)C6 Selecting appropriate production tools, integrating them into an environment andconfiguring them, and setting up a production system (Level 2)C13 Considering technological and methodological innovation (Level 2)C15 Managing a project based on a master plan (planning, budgeting, definition ofmonitoring indicators) (Level 2)
+By  allowing  the  engineering  students  to  work  and  be  evaluated  on  the  followingknowledge :- (C4, C6, C13)- (C15)- (C1, C2, C3)
+To be able to :- (C1, C2, C3, C4, C5, C6? C13)
+CONTENT
+- Introduction to automation - Automated systems of production (functions, uses) - Conducting a project of automation (tools and methods for design and building)
+BIBLIOGRAPHY
+PRE-REQUISITES
+- Industrial Machine environment: sensors, actuators- basic PLC programming- System Engineering basics

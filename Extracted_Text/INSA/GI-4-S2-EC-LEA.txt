@@ -1,0 +1,30 @@
+Domaine Scientifique de la DOUA20, Avenue Albert Einstein - 69100 Villeurbanne
+LeanLean
+IDENTIFICATION
+CODE : GI-4-S2-EC-LEA
+ECTS : 3
+HOURS
+Cours : 0h
+TD : 20h
+TP : 12h
+Projet : 0h
+Evaluation : 4h
+Face à face pédagogique :36h
+Travail personnel : 24h
+Total : 60h
+ASSESMENT METHOD
+Assessment:  participation  (10%),homework  case  study  (30%),practical work report (30%), posteron a subject of your choice relatedto the course (30%). Plus  1  ECTS  for  exchangestudents
+TEACHING AIDS
+Slides  of  the  course,  simulationgame, tutorial 
+TEACHING LANGUAGE
+FrenchEnglish
+CONTACT
+MME PELLET Lorraine :lorraine.trilling@insa-lyon.fr
+AIMS
+This  course  belongs  to  teaching  unit  Management  and  improvement  of  businessperformance (GI-4-S2-UE-GAPE) and contributes to the following skills :- Appreciate lean as a way of management- Use VSM to identify and eliminate the wastes,- Develop the skills necessary to see the flow of a value stream and to create a futurestate map
+CONTENT
+2 sessions of 2 hours of lectures (CM):- Presentation of the history of Lean- Basic principles of Lean- 7 types of wastes, temple Toyota, Just In Time, Jidoka principles, standardization,management.- 3 sessions of 2 hours of tutorials (TD):- Presentation of the Value Stream Mapping method,- Development of an action plan.A case study - 2 sessions of 4 hours of practice (TP): a simulation game of a production workshop ofjacks (Synchro Lean Simulation on hardware FESTO).- 3 sessions of 2-hour seminars with industrial invited speakers: workstation organisation,problem solving and escalation, Lean Leadership
+BIBLIOGRAPHY
+- Learning to see. Mike Rother et John Shook. Avant propos: Jim Womack et Dan Jones.Traduction en Français : Line Perron. N° ISBN: 978-2-9529806-1-6- Gold Mine. Freddy Ballé et Michael Ballé. N°ISBN: 0-9743225-6-3- Le Modèle TOYOTA. Jeffrey Liker. Traduction en Français: Monique Sperry. Avantpropos: Didier Leroy (président de Toyota Motor Manufacturing France. Préface: MichaelBallé et Godefroy Beauvallet. N° ISBN: 978-2-7440-7390-8- Lexique Lean. Chet Marchwinski et John Shook. Traduction en Français: Institut LeanFrance. N° ISBN: 978-2-9529806-0-9- Seeing the whole. James P. Womack and Daniel T. Jones. N° ISBN: 0-9667843-5-9- Système Lean. Penser l'entreprise au plus juste 2ème édition. Jim Womack, DanJones. Préface: Michael Ballé et Godefroy Beauvallet. Traduction en français: MoniqueSperry. N° ISBN: 978-2-7440-7391-5
+PRE-REQUISITES
+Production managementProblem solving methods 

@@ -1,0 +1,131 @@
+ 
+Página 1 de 2 
+ 
+PROGRAMA DE ASIGNATURA 
+ 
+I. IDENTIFICACIÓN DE LA ASIGNATURA. 
+Asignatura: Ingeniería Económica.  Sigla: ILN-230 Fecha de aprobación 
+11/11/2021 
+(CC.DD. Acuerdo 018/2021) 
+Créditos UTFSM: 3  
+ 
+Prerrequisitos: 
+ICN-271 ó  
+IWN-270 
+Examen:  
+No tiene. 
+Unidad Académica 
+que la imparte 
+Créditos SCT     : 5  Departamento de  
+Industrias 
+Horas Cátedra 
+Semanal            : 3  
+Ayudantía:  
+Sí tiene. 
+Laboratorio: 
+No tiene. 
+Semestre en que se dicta 
+Impar  Par Ambos 
+X 
+Eje formativo                                              : Ciencias Sociales y Humanidades.  
+Tiempo total de dedicación a la asignatura: 154 horas cronológicas. 
+Descripción de la Asignatura. 
+El estudiante adquiere e interpreta los principios, conceptos básicos y metodología de la ingeniería 
+económica, desarrollando habilidades en el uso de dichos métodos y en el proceso de toma de 
+decisiones racionales en situaciones de aprendizaje que simulan su desempeño profesional. 
+Requisitos de entrada. 
+• Describe la problemática organizacional y su gestión en una empresa. 
+• Comprende el funcionamiento de las organizaciones en general y de las empresas en particular. 
+• Identifica las principales técnicas y herramientas de gestión. 
+Contribución al perfil de egreso. 
+• Analizar el funcionamiento y las variables de la economía y las finanzas, para agregar valor en 
+el proceso de toma de decisiones. 
+Competencias Transversales Sello UTFSM: 
+• Resolución de Problemas: resuelve problemas complejos, analizando y evaluando soluciones 
+efectivas y eficientes, en función de su impacto en la organización, las personas y el medio 
+ambiente. 
+Resultados de Aprendizaje que se esperan lograr en esta asignatura. 
+• Explica las bases teóricas y conceptuales sobre las cuales se fundamenta el análisis de los 
+proyectos financieros, utilizando conceptos y herramientas de matemáticas financieras. 
+• Toma de decisiones financieras informadas, aplicando indicadores de rentabilidad económica. 
+• Evalúa la rentabilidad económica de una propuesta, aplicando criticas vistas para la toma 
+decisiones.  
+Contenidos temáticos. 
+1. Matemáticas Financieras. 
+2. Indicadores de Rentabilidad Económica. 
+3. Análisis Económico. 
+Metodología de enseñanza y aprendizaje. 
+• Clases expositivas con apoyo de medios audiovisuales. 
+• Aprendizaje colaborativo.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Página 2 de 2 
+ 
+Evaluación y calificación de la asignatura. (Ajustado a Reglamento Institucional-Rglto. N°1) 
+Requisitos de aprobación  y 
+calificación  
+Esta asignatura se evalúa con:  
+Instrumento de evaluación N° % 
+Certamen 1 (C1) 1 24 
+Certamen 2 (C2) 1 36 
+Evaluaciones Complementaria (NC) 3-5 20 
+Tareas (NT) 2 20 
+La Nota Final (NF) de la asignatura se calculará según: 
+• Si Nota de Certámenes es menor que 55: 
+NF = 0,40*C1 + 0,60*C2 
+• Si Nota de Certámenes es mayor o igual que 55: 
+NF = 0,60*(0,40*C1 + 0,60*C2) + 0,20*NC + 0,20*NT 
+ 
+Recursos para el aprendizaje 
+Bibliografía: 
+Texto Guía  • Blank, L. T., Tarquin, A. J., & Martínez, D. (1991). Ingeniería 
+económica. McGraw-Hill. 
+Complementaria u Opcional - 
+Bibliografía clásica • Devoto Ratto, R., & Abarca, M. N. (2001). Matemáticas 
+financieras: un enfoque para la toma 
+de decisiones. Ediciones Universitarias de Valparaíso de la 
+Universidad Católica de Valparaíso. Santiago de Chile. 
+• Thuesen, H. G., Fabricky, W. J., & Thuesen, G. J. (1981). 
+Ingeniería económica: edición revisada del proyecto de 
+ingeniería. 
+• Portus Govinden, L. (1997). Matemáticas financieras. 
+Editorial McGraw-Hill. 
+ 
+II. CÁLCULO DE CANTIDAD DE HORAS DE DEDICACIÓN - (SCT-Chile)- CUADRO 
+RESUMEN DE LA ASIGNATURA. 
+ 
+ 
+ 
+ACTIVIDAD  
+Cantidad de horas de dedicación 
+Cantidad de horas por 
+semana 
+Cantidad de 
+semanas 
+Cantidad total 
+de horas 
+PRESENCIAL 
+Cátedra o Clases teóricas 3 17 51 
+Ayudantía/Ejercicios 1,5 16 24 
+Visitas industriales (de Campo)    
+Laboratorios / Taller    
+Evaluaciones (certámenes, otros)  1,5 2 3 
+Otras (Especificar)    
+NO PRESENCIAL 
+Ayudantía 
+   
+Tareas obligatorias (Tarea 
+Computacional) 
+6 2 12 
+Estudio Personal ( Individual o 
+grupal) 
+4 16 64 
+Otras (Especificar)    
+TOTAL (HORAS RELOJ) 154 
+Número total en CRÉDITOS TRANSFERIBLES  5 

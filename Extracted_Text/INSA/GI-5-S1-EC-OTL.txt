@@ -1,0 +1,30 @@
+Domaine Scientifique de la DOUA20, Avenue Albert Einstein - 69100 Villeurbanne
+Transportation and logistics optimizationTransportation and logistics optimization
+IDENTIFICATION
+CODE : GI-5-S1-EC-OTL
+ECTS : 3
+HOURS
+Cours : 0h
+TD : 24h
+TP : 0h
+Projet : 0h
+Evaluation : 2h
+Face à face pédagogique :26h
+Travail personnel : 30h
+Total : 60h
+ASSESMENT METHOD
+TEACHING AIDS
+TEACHING LANGUAGE
+French
+CONTACT
+M. HADJ HAMOU Khaled :khaled.hadj-hamou@insa-lyon.fr
+AIMS
+This course belongs to teaching unit Industrie 4.0 (GI-5-S1-UE-INQZ) and contributes tothe following skills : A2 Operate a model of a real or virtual system (Level 2)C2 Modeling and designing an information, decision and production system, of goodsand services (Level 2)C5 Managing a production system and react to malfunctions (Level 2)C6 Selecting appropriate production tools, integrating them into an environment andconfiguring them, and setting up a production system (Level 1)C9 Localizing and assigning the production, storage and transportation processes todifferent members of the supply chain (Level 1)C13 Considering technological and methodological innovation (Level 2)
+By  allowing  the  engineering  students  to  work  and  be  evaluated  on  the  followingknowledge :
+To be able to :
+CONTENT
+The engineering student will work and be assessed on the following knowledge andskills :-  (10h)  Know  the  "classical"  transportation  problems  :  Traveling  Salesman  Problem(TSP), Vehicle Routing Problem (VRP), etc.- (2h) Know the basic methods and tools to design logistic networks.- (8h) Know the pronciples and toold for disctributed decision-making: game theory,multi-agent  systems  and  agent-based  simulation  coupled  with  flow  simulation  (forinstance with Anylogic)- (4h) Know the tools (especially decomposition methods) to perform joint optimisation.- Be able to formulate and solve a supply chain optimisation problem, from the viewpointof transportation and flow management. 
+BIBLIOGRAPHY
+Ilya Grigoryev. AnyLogic 7 in Three Days : A Quick Course in Simulation Modeling. 3rdedition.Jacques Teghem. Recherche opérationnelle. Tome 1, Tome 1, OCLC : 819196866. Paris: Ellipses, 2012. isbn : 978-2-7298-7509-1.Paolo Toth et Daniele Vigo, éds. Vehicle routing : problems, methods, and applications.Second edition. MOS-SIAM series on optimization. Philadelphia : Society for Industrial etApplied  Mathematics  :  Mathematical  Optimization  Society,  2014.  463  p.  isbn  :978-1-61197-358-7.Michael Wooldridge. An Introduction to Multi-Agent Systems. 2d edition. New York, NY,USA: John Wiley & Sons, Inc., 2009.Murat Yildizoglu. Introduction à la Théorie des Jeux. Dunod, Paris (France), 2003. 
+PRE-REQUISITES
+Inventory management : EOQ, basic replenishment methodsFlow managementProduction management : S&OP, MPS & MRP Scheduling:  models,  standard  scheduling  notation,  heuristic  solving  methods  forscheduling problems Combinatorial optimisation: graph theoryLogistic

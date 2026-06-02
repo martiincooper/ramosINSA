@@ -1,0 +1,32 @@
+Domaine Scientifique de la DOUA20, Avenue Albert Einstein - 69100 Villeurbanne
+SchedulingScheduling
+IDENTIFICATION
+CODE : GI-4-S1-EC-ORD
+ECTS : 2
+HOURS
+Cours : 0h
+TD : 8h
+TP : 14h
+Projet : 0h
+Evaluation : 2h
+Face à face pédagogique :24h
+Travail personnel : 12h
+Total : 40h
+ASSESMENT METHOD
+IE (written test)ES (situational assessment)
+TEACHING AIDS
+Handout  for  the  lecture-tutorialspart with exercises.Project description.Access to Opcenter APS softwarepackage.
+TEACHING LANGUAGE
+FrenchEnglish
+CONTACT
+M. FONDREVELLE Julien :julien.fondrevelle@insa-lyon.fr
+AIMS
+This course belongs to teaching unit Pilotage des opérations industrielles (GI-4-S1-UE-POPI) and contributes to the following skills : A1 Analyze a system (real or virtual) or a problem (Level 3)A2 Operate a model of a real or virtual system (Level 3)A3 Implement an experimental approach (Level 2)C1 Observing, measuring, analyzing and interpreting an activity or a system from data(Level 3)C2 Modeling and designing an information, decision and production system, of goodsand services (Level 3)C3 Evaluating, prototyping and simulating a system (Level 3)C5 Managing a production system and react to malfunctions (Level 3)C6 Selecting appropriate production tools, integrating them into an environment andconfiguring them, and setting up a production system (Level 2)
+By  allowing  the  engineering  students  to  work  and  be  evaluated  on  the  followingknowledge :- Production scheduling techniques and methods: single machine, parallel machines,flowshop, jobshop, hybrid configurations. (A1, A2, A3, C1, C2, C3, C5, C6)
+To be able to :- Characterizing production master data; (A1, A2, C1, C2, C6)- Specifying a scheduling problem; (A1, A2, C1, C2, C3)- Choosing or proposing a method to solve a production scheduling problem that is bestsuited to a given context, and applying it; (A2, A3, C2, C3, C5, C6)- Analyzing the impacts of scheduling methods. (A1, A2, A3, C1, C3, C5, C6)
+CONTENT
+1- Lecture-tutorials part :Introduction: Positioning scheduling within the overall production management process,characteristics of scheduling problems, problem classification.Single-machine problems.Parallel machine problems.Flowshop problems.Jobshop problems.Hybrid problems.2- Project: using a scheduling software package (Opcenter APS) to solve a case studyStudy of production master data.Analysis of software functionalities.Consideration of additional constraints.Software evaluation and critical analysis.
+BIBLIOGRAPHY
+BAGLIN G., BRUEL O., GARREAU A., GREIF M., Van DELF C., Management Industrielet Logistique, Economica, 1996.GIARD V. Gestion de la production et des flux, 3e édition, Economica, 2003.JAVEL G. Organisation et gestion de la production, Masson, 1997.PINEDO M., Scheduling: Theory, Algorithms, and Systems, Prentice Hall, 2001.RINNOOY KAN A.H.G., Machine scheduling problems: Classification, complexity andcomputations, Nijhoff, The Hague (1976).Hall, 2001
+PRE-REQUISITES
+Basics  of  Production  Management  (production  organization,  master  data,  productionplanning) Basic knowledge about algorithms.

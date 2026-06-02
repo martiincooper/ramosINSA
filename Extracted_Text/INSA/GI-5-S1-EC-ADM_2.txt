@@ -1,0 +1,32 @@
+Domaine Scientifique de la DOUA20, Avenue Albert Einstein - 69100 Villeurbanne
+Multicriteria decision supportMulticriteria decision support
+IDENTIFICATION
+CODE : GI-5-S1-EC-ADM
+ECTS : 2
+HOURS
+Cours : 0h
+TD : 6h
+TP : 12h
+Projet : 0h
+Evaluation : 2h
+Face à face pédagogique :20h
+Travail personnel : 20h
+Total : 40h
+ASSESMENT METHOD
+continuous assessment
+TEACHING AIDS
+Lecture book and exercises
+TEACHING LANGUAGE
+French
+CONTACT
+M. MONTEIRO Thibaud :thibaud.monteiro@insa-lyon.fr
+M. VERCRAENE Samuel :samuel.vercraene@insa-lyon.fr
+AIMS
+The Multicriteria Decision Aid course covers methods and tools that help a decision-maker  make  a  complex  decision  involving  multiple  criteria,  often  contradictory  or  inconflict.
+Three approaches will be covered in this course:- The AHP method (Analytic Hierarchy Process);- The TOPSIS method (Technique for Order Preference by Similarity to Ideal Solution);- Multicriteria optimization.
+CONTENT
+TD1 2h introduction ADM + AHP TP1 4h TP AHP CC1TD2 2h OPTIM + TOPSIS TP2 4h TP TOPSIS CC2TD3 2h TD Lexico + Pareto TP3 4h TP Pareto CC3
+BIBLIOGRAPHY
+Bouyssou D. et Roy B. : Aide multicritère à la décision : méthode et cas, Economica,1993.Carlier J. et Chrétienne P. : Problèmes d'ordonnancement : modélisation / complexité /algorithmes, Masson, 1988.Garfinkel R.S. et Nemhauser : Integer programming, Wiley Interscience, 1972.Roy B. : Méthodologie multicritère d'aide à la décision, Economica, 1985.
+PRE-REQUISITES
+Monocriterion decision support (Linear Programming), basic and advanced productionmanagement

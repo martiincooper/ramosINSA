@@ -1,0 +1,31 @@
+Domaine Scientifique de la DOUA20, Avenue Albert Einstein - 69100 Villeurbanne
+Collective project S1/2Collective project S1/2
+IDENTIFICATION
+CODE : GI-4-S1-EC-PCO
+ECTS : 4
+HOURS
+Cours : 0h
+TD : 8h
+TP : 0h
+Projet : 0h
+Evaluation : 4h
+Face à face pédagogique :12h
+Travail personnel : 52h
+Total : 80h
+ASSESMENT METHOD
+Continuous  assessment  in  anactivity situation: evaluation of :- Requirement analysis,- Preliminary design,- Preliminary realization,- Planning and monitoring,and associated deliverables.Collective project defense.Individual  assessments  of  projectteam members.
+TEACHING AIDS
+Numerous resources available onthe  course's  Moodle  page(presentation  materials,  processnotes, etc.).
+TEACHING LANGUAGE
+FrenchEnglish
+CONTACT
+M. FONDREVELLE Julien :julien.fondrevelle@insa-lyon.fr
+AIMS
+This  course  belongs  to  teaching  unit  Collectiv  project  (GI-4-S1-UE-PROJ)  andcontributes to the following skills :Project management methodes and tools (following aproject, steeps of a project, risk management, AMDEC, formalization of the customersobjectives , redaction of specifications, redaction of plan realisation.
+Place the project and its stakes in the organization ; organize and manage a project andwork  in  team;  meetings  management  ;  manage  relevant  information;  communicate,negotiate and defend a project
+CONTENT
+Project steps: Identification and expression of customer needs and constraints, Study ofexisting  situation  and  benchmarking,  Identification  of  risks  (FMEA),  Formulation  of“quality” objectives and rules for verifying their achievement, Specifications (functional,metrological, pedagogical, technical, product, etc.), Delivery schedule and contractualcommitment. Drawing up an Analysis of Requirements, a Project Management Plan anda Technical Proposal. Implementation of management dashboards. Task planning andidentification of mobilized resources. Achievements and actions in the field (specific tothe project). Prototype development. Obtaining and formalizing results, checking thatinitial objectives have been met. 
+BIBLIOGRAPHY
+- GIDEL T, ZONGHERO W. « Management de Projet 1 et 2 », Hermès Sciences, 2006- BOURGEOIS J-P. « Gestion de Projet » Technique de l'Ingénieur T 7700-  CHVIDCHENKO  I.,  CHEVALLIER  J.  «  Conduite  et  gestion  de  projet.  Principes  etpratiques pour petits et grands projets » Cépaduès Edition, 1997- AFITEP « Le Management de Projet, Principes et Pratique » Afnor Gestion, 1991- GIARD V. « La Gestion de Projet » Economica, 1991-  PMI  Project  management  Body  of  Knowledge;  Project  Management  Institute;www.pmi.org- R. MARCINIAK , M. PAGERIE Gestion de projet . Guide pratique de tous vos projets etproduits industriels, Editions WEKA- J. MAISONNEUVE La dynamique des groupes, Paris Que-sais je ?, PUF, 1964- B. KAYE Pédagogie de groupe sciences de l'éducation, Dunod, 1975- R. MUCHIELLI Les méthodes actives dans la pédagogie des adultes, 1991 Gestion deProjets , Tome 1 et 2 , Edition WEKAP7
+PRE-REQUISITES
+WARNING : This course extends over two semesters. You will only be allowed to take it ifyou also take its counterpart in semester 2 (GI-4-S2-EC-PCO). Prerequisites:- Problem-solving methodology- Quality tools- Basic project management tools and methods

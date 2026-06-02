@@ -1,0 +1,152 @@
+ 
+Página 1 de 3 
+ 
+PROGRAMA DE ASIGNATURA 
+ 
+I. IDENTIFICACIÓN DE LA ASIGNATURA. 
+Asignatura: Proyecto de Titulación Sigla: ELO-307 Fecha de aprobación 
+11/11/2021 
+(CC.DD. Acuerdo 019/2021) 
+Créditos UTFSM: 4 
+ 
+Prerrequisitos:  
+Tener aprobado 
+mínimo 246 SCT del 
+plan de Carrera. 
+Examen: Sí 
+tiene. 
+Unidad Académica  
+que la imparte. 
+Créditos SCT: 6 Departamento de  
+Electrónica 
+Horas Cátedra 
+Semanal: 2 
+Ayudantía: 
+No tiene. 
+Laboratorio: 
+No tiene. 
+Semestre en que se dicta 
+Impar Par 
+ 
+Ambos 
+X 
+Eje formativo:                                                Ingeniería Aplicada. 
+Tiempo total de dedicación a la asignatura: 188 horas cronológicas. 
+Descripción de la Asignatura. 
+Esta asignatura del plan de estudios de la carrera Ingeniería Civil Electrónica forma parte del área 
+de conocimientos de Ingeniería Aplicada. La actividad de esta asignatura está relacionada con un 
+proyecto de Titulación donde los estudiantes deberán aplicar los conocimientos adquiridos para 
+buscar información y plantear la mejor solución a un problema específico relacionado con la 
+especialidad. 
+Requisitos de entrada.  
+• Plantear soluciones a problemas reales de ingeniería.  
+• Tener un nivel de conocimiento de su especialidad que le permita buscar soluciones a problemas 
+reales. 
+Contribución al perfil de egreso. 
+Competencias específicas: 
+• Analizar, diseñar y desarrollar proyectos de ingeniería en las áreas de la electrónica1. 
+Competencias Transversales Sello UTFSM:  
+• Resolución de problemas: resuelve problemas complejos, analizando y evaluando soluciones 
+efectivas y eficientes, en función de su impacto en la organización, las personas y el medio 
+ambiente. 
+• Manejo de las Tecnologías de Información y Comunicaciones: utiliza las tecnologías de 
+información y comunicaciones en la gestión de proyectos, la resolución de problemas y en la 
+forma de colaborar con otras personas 
+• Comunicación efectiva: comunica efectivamente sus ideas, tanto en forma escrita como oral, 
+en español e inglés. 
+• Compromiso con la calidad: el o la estudiante ejecuta las actividades profesionales con 
+excelencia, que le permitan enfrentar los retos que se presentan, guiado por un aprendizaje 
+continuo, una autoevaluación sistemática y una cultura de calidad. 
+• Innovación y emprendimiento: desarrolla mejoras e innovaciones tecnológicas y de gestión, 
+generando oportunidades para dar respuesta satisfactoria a las necesidades organizativas y 
+sociales. 
+ 
+ 
+ 
+ 
+ 
+1 Las competencias que se presentan han sido adaptadas de la competencia n°6 del perfil de egreso, por cuanto no 
+existe una centrada en el trabajo de memoria de título. 
+
+ 
+Página 2 de 3 
+ 
+Resultados de Aprendizaje que se esperan lograr en esta asignatura.  
+• Especifica el problema a investigar, su alcance y sus objetivos. (1) 
+• Construya los fundamentos teóricos y el estado actual de desarrollo del problema de ingeniería 
+a resolver. (2) 
+• Especifica alternativas de solución al problema planteado. (3) 
+• Elabora la mejor propuesta de solución. (4) 
+• Planifica las actividades que le permitan desarrollar la solución al problema planteado. (5) 
+Contenidos temáticos. 
+1. Descripción de problemas. 
+2. Búsqueda de información 
+3. Planteo de alternativas de solución. 
+4. Selección de la mejor alternativa de solución. 
+5. Planificación de las etapas a seguir en el desarrollo de la solución. 
+Metodología de enseñanza y aprendizaje. 
+1. Búsqueda y análisis de información actualizada sobre el problema a desarrollar. 
+2. Estudio de casos asociados al problema a investigar, aplicando la teoría. 
+3. Este trabajo se realiza de manera individual. 
+4. Reuniones periódicas con el profesor guía. 
+Evaluación y calificación de la asignatura. (Ajustado a Reglamento Institucional-Rglto. N°1) 
+Requisitos de 
+aprobación y 
+calificación  
+5 informes: 
+Informe del Resumen sobre el tema (Res)  
+Informe del Estado del Arte              (Est)     
+Informe de Alternativas de solución (Alt)     
+Informe de la Alternativa seleccionada (Sel)  
+Informe del plan de trabajo incluyendo Carta Gantt (Car)  
+NT=((Res)*0,1+ (Est)*0,4+ (Alt)*0,2+(Sel)*0,2+(Car)*0,1) *0,8 + (Atraso)*0,2 
+NF=NT*0,6 + (Nota Examen) *0,4 
+El estudiante debe entregar formulario de inscripción de Memoria de Titulación 
+como requisito de aprobación. 
+Recursos para el aprendizaje.  
+Texto Guía  www2.elo.utfsm.cl/~elo307 
+Complementaria u Opcional • Normas de Publicación de Memorias del Departamento de 
+Electrónica, UTFSM. 
+• Recomendaciones para la redacción de Trabajos de 
+Memoria, Departamento de Electrónica. 
+• Artículos, patentes y textos asociados con el tema a 
+desarrollar. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Página 3 de 3 
+ 
+II. CÁLCULO DE CANTIDAD DE HORAS DE DEDICACIÓN - (SCT-Chile)- CUADRO 
+RESUMEN DE LA ASIGNATURA. 
+ 
+ 
+ACTIVIDAD 
+Cantidad de horas de dedicación 
+Cantidad de horas 
+por semana 
+Cantidad de 
+semanas 
+Cantidad total de 
+horas 
+PRESENCIAL 
+Cátedra o Clases teóricas 2 2 4 
+Ayudantía/Ejercicios    
+Visitas industriales (de Campo)    
+Laboratorios / Taller 1 16 16 
+Evaluaciones (certámenes, otros)     
+Otras (Especificar)    
+NO PRESENCIAL 
+Ayudantía    
+Tareas obligatorias 4 16 64 
+Estudio Personal  6 16 96 
+Otras: reunión con profesor guía 1 8 8 
+TOTAL (HORAS RELOJ) 188 
+Número total en CRÉDITOS TRANSFERIBLES  6 

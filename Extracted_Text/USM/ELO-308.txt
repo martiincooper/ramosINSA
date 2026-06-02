@@ -1,0 +1,181 @@
+ 
+Página 1 de 3 
+ 
+PROGRAMA DE ASIGNATURA 
+ 
+I. IDENTIFICACIÓN DE LA ASIGNATURA. 
+Asignatura: Memoria de Titulación Sigla: ELO-308 Fecha de aprobación 
+20/08/2020 
+(CC.DD. Acuerdo 022/2020) 
+Créditos UTFSM: 6 
+ 
+Prerrequisitos:  
+ELO-307 
+Examen: No tiene. Unidad Académica  
+que la imparte. 
+Créditos SCT: 9 Departamento de  
+Electrónica 
+Horas Cátedra 
+Semanal: tutorial.  
+Ayudantía: 
+No tiene. 
+Laboratorio: 
+No tiene. 
+Semestre en que se dicta 
+Impar Par 
+ 
+Ambos 
+x 
+Eje formativo: Ingeniería Aplicada 
+Tiempo total de dedicación a la asignatura: 272 horas cronológicas. 
+ 
+  Descripción de la Asignatura. 
+Esta asignatura forma parte del plan de estudios de la carrera Ingeniería Civil Electrónica y forma 
+parte del área de conocimientos de Ingeniería Aplicada. En esta asignatura los estudiantes deberán 
+aplicar los conocimientos adquiridos para desarrollar la solución obtenida en su Proyecto de 
+Titulación usando técnicas de ingeniería electrónica. 
+ 
+  Requisitos de entrada. 
+Plantear un Proyecto de Titulación que involucren la electrónica en forma significativa. 
+ 
+Contribución al perfil de egreso 
+Competencia específica: 
+• Analizar, diseñar y desarrollar proyectos de ingeniería en las áreas de la electrónica 1. 
+Competencias transversales sello: 
+• Resolución de problemas : resuelve problemas complejos, analizando y evaluando soluciones 
+efectivas y eficientes, en función de su impacto en la organización, las personas y el medio 
+ambiente. 
+• Manejo de las Tecnologías de Información y Comunicaciones : utiliza las tecnologías de 
+información y comunicaciones en la gestión de proyectos, la resolución de probl emas y en la 
+forma de colaborar con otras personas 
+• Comunicación efectiva: comunica efectivamente sus ideas, tanto en forma escrita como oral, 
+en español e inglés. 
+• Compromiso con la calidad: El o la estudiante ejecuta las actividades profesionales con 
+excelencia, que le permitan enfrentar los retos que se presentan, guiado por un aprendizaje 
+continuo, una autoevaluación sistemática y una cultura de calidad.  
+• Innovación y emprendimiento:  Desarrolla mejoras e innovaciones tecnológicas y de gestión, 
+generando op ortunidades para dar respuesta satisfactoria a las necesidades organizativas y 
+sociales. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 Las competencias que se presentan han sido adaptadas de la competencia n°6 del perfil de egreso, por 
+cuanto no existe una centrada en el trabajo de memoria de título. 
+ 
+Página 2 de 3 
+ 
+Resultados de Aprendizaje que se esperan lograr en esta asignatura. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contenidos temáticos 
+• Desarrollo de la solución propuesta. 
+• Evaluaciones y ensayos de la solución implementada. 
+• Generación de conclusiones y recomendaciones. 
+• Generación de un informe escrito del trabajo realizado (memoria). 
+ 
+Metodología de enseñanza y aprendizaje. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Evaluación y calificación de la asignatura. (Ajustado a Reglamento Institucional-Rglto. N°1) 
+Requisitos de aprobación y 
+calificación  
+Trabajo práctico        (Tra) 
+Informe escrito final   (Inf) 
+ 
+NF Inf)*0,6 + (Tra)*0,4 
+ 
+Recursos para el aprendizaje.  
+Bibliografía: 
+Texto Guía  Normas de Publicación de Memorias del Departamento de 
+Electrónica, UTFSM. 
+Complementaria u Opcional •Recomendaciones para la redacción de Trabajos de Memoria, 
+Departamento de Electrónica. 
+•Artículos, patentes y textos asociados con el trabajo a 
+desarrollar. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Aplica los fundamentos teóricos en el desarrollo de la solución de un problema de ingeniería 
+electrónica. (1, 2) 
+2. Gestiona el desarrollo de su proyecto de titulación de acuerdo con lo planificado en la carta Gantt. 
+(1, 2) 
+3. Desarrolla la solución de un problema relevante de ingeniería  que cumpla con las condiciones 
+establecidas en el proyecto. (2, 3) 
+4. Genera  un informe técnico que describa el desarrollo del proyecto. (4) 
+• Aprendizaje basado en el desarrollo de un proyecto relevante de ingeniería. 
+• Verificación del cumplimiento de especificaciones y validación de la solución. 
+• Generación de informes de avance y final. 
+• Reuniones periódicas con el profesor guía. 
+ 
+Página 3 de 3 
+ 
+II. CÁLCULO DE CANTIDAD DE HORAS DE DEDICACIÓN- (SCT-Chile)- CUADRO 
+RESUMEN DE LA ASIGNATURA. 
+ 
+ 
+ 
+ACTIVIDAD 
+Cantidad de horas de dedicación 
+Cantidad de horas por 
+semana 
+Cantidad de 
+semanas 
+Cantidad total de 
+horas 
+PRESENCIAL 
+Cátedra o Clases teóricas    
+Ayudantía/Ejercicios    
+Visitas industriales (de 
+Campo) 
+   
+Laboratorios / Taller    
+Evaluaciones (certámenes, 
+otros)  
+   
+Otras (Especificar)    
+ 
+Ayudantía    
+Tareas obligatorias    
+Estudio Personal ( Individual o 
+grupal) 
+16 16 256 
+Otras: reunión con profesor 
+guía 
+1 16 16 
+TOTAL (HORAS RELOJ) 
+  
+272 
+Número total en CRÉDITOS TRANSFERIBLES  9 

@@ -1,0 +1,199 @@
+PROGRAMA DE ASIGNATURA 
+I. IDENTIFICACIÓN DE LA ASIGNATURA
+Asignatura: USO DE SOFTWARE DE 
+INGENIERÍA INDUSTRIAL  
+Sigla: ICN–357 Fecha de aprobación 
+12/07/2025 
+(CC.DD Acuerdo 024/2025) 
+Créditos SCT: 5 Prerrequisitos: ICN- 292 Examen: No  Unidad Académica que la 
+imparte 
+Departamento de Industrias 
+Horas Cátedra 
+Semanal: 2,33 
+Ayudantía: No  Laboratorio: No  Semestre en que se dicta 
+Impar  Par  Ambos 
+X  
+Eje formativo: Ingeniería Aplicada. 
+Tiempo total de dedicación a la asignatura:  135,61 Horas Cronológicas. 
+D
+escripción de la Asignatura 
+El/la estudiante conoce los Sistemas de Gestión de Bases de Datos Relacionales (RDBMS, por sus 
+siglas en inglés), lo cual le permitirá desarrollar estructuras de almacenamiento de datos  a partir de 
+modelos relacionales de la organización. Para ello, se abordará su análisis, gestión y administración 
+con el objetivo de analizar información, generar nuevo conocimiento del proceso y construir 
+indicadores de gestión de negocios para la toma de decisiones.  
+En particular, el/la estudiante aprende a trabajar con uno de los RDBMS más reconocidos a nivel 
+mundial, en conjunto con herramientas de desarrollo de funcionalidad (Python) que le permiten 
+desarrollar algoritmos de inserción, modificación y eliminación de datos en conexión con la base de 
+datos, así como análisis y presentación de éstos desde su repositorio, en tiempo real.  
+R
+equisitos de entrada 
+• Planifica las etapas del proceso de desarrollo de software, aplicando conceptos y métodos de l a
+ingeniería de software.
+• Analiza los procesos administrativos y requerimientos de información en una organización,
+diagnosticando la situación de la organización y sus falencias.
+C
+ontribución al perfil de egreso 
+Competencias específicas: 
+• CE5 Formular mejoras a sistemas y organizaciones, a nivel estratégico y táctico de las
+organizaciones, para optimizar el uso de recursos y la creación de valor en la empresa u
+organización.
+Competencias Transversales Sello USM: 
+• CTS3 Compromiso con la Calidad: El/la estudiante - de acuerdo con su nivel formativo- ejecuta
+las actividades académicas profesionalizantes, demostrando un alto nivel de dedicación,
+excelencia y compromiso constante con su proceso de aprendizaje y/o el de sus pares.
+• CTS7 Manejo de Tecnologías de Información y Comunicaciones: El/la estudiante - de acuerdo 
+con su nivel formativo- utiliza de forma pertinente y eficiente diversas herramientas tecnológicas y 
+de comunicación para el análisis, comprensión y generación de información que le facilite un 
+adecuado desenvolvimiento en sus actividades académicas y profesionales
+
+R
+esultados de Aprendizaje que se esperan lograr en esta asignatura 
+Resultados de aprendizaje asociados a Competencias específicas: 
+• Utiliza herramientas para la construcción de una base de datos, aplicando códigos del DDL.
+• Construye consultas (querys) para la edición y manipulación de datos, aplicando códigos del
+DML con el objetivo de construir indicadores de proceso y analizar los datos.
+• Aplica métodos de conexión en línea con plataformas de desarrollo de funcionalidad para el
+procesamiento de datos, utilizando conocimientos de gestión de datos con interfaces de trabaj o
+r
+eal.
+• Procesa bases de datos masivas, incluyendo aplicaciones estadísticas, de Inteligencia  de
+Negocios y/o de Data Science, utilizando herramientas de Extracción, Transformación y Carga de
+dat
+os (ETL, por sus siglas en inglés).
+• Desarrolla procedimientos y funciones administrativas y de datos y bases de datos, aplicando
+algoritmos y técnicas de mantenimiento, respaldo y restauración.
+R
+esultados de Aprendizaje asociados a las CTS: 
+• CTS3 – RDA1 Lidera actividades y/o proyectos académicos, considerando criterios de calidad
+preestablecidos por el equipo docente, tanto en el proceso como en los resultados, para la
+excelencia académica y profesional.
+• CTS7 – RDA2 Diseña estrategias innovadoras para la sistematización de información técnica,
+evaluando críticamente su calidad, para generar información especializada que posibilite la to ma
+de decisiones e innovación de procesos según los contextos disciplinares en los cuales s e
+desenvuelve.
+• CTS7 – RDA3 Implementa un dominio avanzado de plataformas y programas de ofimática de alta
+complejidad de acuerdo con el ámbito disciplinar evaluando de manera eficiente procedimientos y
+técnicas innovadoras para la realización de tareas según los parámetros establecidos en sus
+funciones en diversos contextos.
+C
+ontenidos temáticos 
+1) Introducción.
+• El modelo Entidad–Relación.
+• Normalización y Transformación Relacional.
+• Modelo Relacional y Diccionario de Datos.
+• Sistemas de representación de datos (números, strings, fecha–hora) en computadores.
+• Tipos de datos en MySQL.
+• Gestión de datos en máquinas reales (eficiencia de datos).
+2) Creación y Edición de datos.
+• Terminal HMI de acceso al DBMS.
+• Comandos básicos de trabajo.
+• Creación y Edición de Tablas.
+• Integridad Referencial.
+• Inserción, Actualización y Eliminación de Datos.
+• Comandos transaccionales del DBMS.
+• Conexión con Python, edición de datos desde una aplicación de software.
+3) Presentación de Datos.
+• Presentación de datos con SELECT.
+• Operadores para la presentación de datos.
+• Cálculos y clasificación de datos a partir de campos de la BD.
+• Condicionamiento de registros.
+
+ 
+• Ordenamiento de registros. 
+• Búsqueda parcial en strings. 
+• Presentación de rangos de registros. 
+• Funciones especiales de fecha/hora. 
+• Importación y exportación de datos en archivos planos. 
+• Consultas anidadas (subconsultas y tablas derivadas). 
+4) Conjuntos de Datos. 
+• Integración vertical y horizontal desde conjuntos de datos. 
+• Integración de dos tablas. 
+• Integración de conjuntos de datos. 
+• Integración de n tablas y conjuntos de datos. 
+• Correspondencias múltiples. 
+• Funciones de agregados y cálculos estadísticos. 
+5) Procedimientos, Funciones y Accesibilidad. 
+• Vistas de datos y reportería. 
+• Estructuras de transposición de datos. 
+• Procedimientos Almacenados. 
+• Creación de Funciones. 
+• Triggers o Disparadores. 
+• Desarrollo de Scripts externos de administración y gestión. 
+• Integración de comandos y funcionalidades. 
+ 
+Metodología de enseñanza y aprendizaje 
+• Clases expositivas y demostrativas, con desarrollo de código de operación por parte del profesor y 
+de los/as alumnos/as (taller de trabajo en clases). 
+• Análisis y desarrollo de herramientas de resolución de problemas basados en casos reales de la 
+industria. 
+• Análisis de patrones de información en grandes bases de datos.  
+ 
+ Evaluación y calificación de la asignatura (Ajustado a Reglamento Institucional -Rglto. N°1). 
+Requisitos de 
+aprobación 
+y calificación 
+El proceso de evaluación y calificación consiste en:  
+Instrumentos de evaluación N° % 
+Certamen 1 (C1) 1 30 
+Certamen 2 (C2) 1 30 
+Tareas Computacionales (TC) 4 20 
+Proyecto de Análisis de Datos (PI) 1 20 
+ 
+Donde: 
+Promedio Semestral (PS) se calcula según:  
+PS = 0,3*C1 + 0,3*C2 + 0,2*TC + 0,2*PI 
+• Los estudiantes que obtengan PS mayor o igual a 55 aprobarán la 
+asignatura con nota final: NF = PS 
+ 
+ 
+ 
+ 
+
+R
+ecursos para el aprendizaje 
+• Plataforma Educativa Virtual AULA-USM. 
+B
+ibliografía: 
+Texto Guía • Silberschatz A., Korth H., Sudarshan S., "Fundamentos de
+Bases de Datos", 6ta Edición, editorial McGraw–Hill, 2014.
+Complementaria u Opcional • Dubois P., “Programación MySQL”, 3ra Edición, Ediciones
+Anaya Multimedia, 2005.
+• Manual de Referencia de MySQL 8.0,
+https://dev.mysql.com/doc/refman/8.0/en/
+II. CÁLCULO DE CANTIDAD DE HORAS DE DEDICACIÓN- (SCT-Chile)- CUADRO
+RESUMEN DE LA ASIGNATURA.
+1 DECRETO DE RECTORIA Nº 325/2020 VALPARAISO, 13 de noviembre de 2020. REF.: Establece duración hora pedagógica de clases en la 
+Universidad Técnica Federico Santa María, a contar del Año Académico 2021.  
+2 DECRETO DE RECTORIA Nº 324/2020 VALPARAISO, 13 de noviembre de 2020. 
+REF.: Establece equivalencia de crédito transferible SCT Chile con horas de trabajo cronológicas semestral en la Universidad Técnica Federico Santa 
+María, a contar del Año Académico 2021.  
+ACTIVIDAD 
+Cantidad de horas de dedicación 
+Cantidad de horas por 
+semana1 
+Cantidad de 
+semanas 
+Cantidad total de 
+horas 
+PRESENCIAL 
+Cátedra o Clases teóricas 2,33 15 34,95 
+Ayudantía/Ejercicios - - - 
+Visitas industriales (de 
+Campo) 
+- - - 
+Laboratorios / Taller - - - 
+Evaluaciones (certámenes, 
+otros)  
+1,17 2 2,33 
+Otras (Presentaciones) 2,33 1 2,33 
+NO PRESENCIAL 
+Ayudantía - - - 
+Tareas obligatorias. 4 4 16 
+Estudio Personal (Individual o 
+grupal: Certamen y controles 
+de lectura) 
+4 15 60 
+Otras (Proyecto) 2 10 20 
+TOTAL (HORAS RELOJ) - - 135,61 
+Número total en CRÉDITOS ACADÉMICOS TRANSFERIBLES 2 5 

@@ -1,0 +1,30 @@
+Domaine Scientifique de la DOUA20, Avenue Albert Einstein - 69100 Villeurbanne
+Control of dynamic systemsControl of dynamic systems
+IDENTIFICATION
+CODE : GI-3-S2-EC-CSD
+ECTS : 4
+HOURS
+Cours : 0h
+TD : 22h
+TP : 40h
+Projet : 0h
+Evaluation : 2h
+Face à face pédagogique :64h
+Travail personnel : 16h
+Total : 80h
+ASSESMENT METHOD
+IE (written examination)Report and defense
+TEACHING AIDS
+Paper  version  of  the  slideshowprojected in class.
+TEACHING LANGUAGE
+French
+CONTACT
+MME SUBAI Corinne :corinne.subai@insa-lyon.fr
+AIMS
+This course belongs to teaching unit Pilotage des systèmes industriels (GI-3-S2-UE-PISI) and contributes to the following skills : A3 Implement an experimental approach (Level 2)C1 Observing, measuring, analyzing and interpreting an activity or a system from data(Level 2)C2 Modeling and designing an information, decision and production system, of goodsand services (Level 2)C3 Evaluating, prototyping and simulating a system (Level 2)C13 Considering technological and methodological innovation (Level 1)B2 work, learn, progress autonomously (Level 2)B3 interact with people and work in a team (Level 3)
+- The notion of stability of a system- Performance concepts- Single-input, single-output correctors
+To be able to:- Study the stability of a system- Determine the system performance parameters and compare them to the specifications- Synthesize a controller- Simulate a dynamic system and its controller- Controlling a physical system experimentally
+CONTENT
+BIBLIOGRAPHY
+P. Borne et al., Analyse et régulation des processus industriels, Technip
+PRE-REQUISITES

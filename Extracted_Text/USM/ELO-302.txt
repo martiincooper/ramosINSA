@@ -1,0 +1,170 @@
+    
+Página 1 de 3 
+ 
+PROGRAMA DE ASIGNATURA  
+  
+I. IDENTIFICACIÓN DE LA ASIGNATURA  
+  
+Asignatura:  Proyectos Electrónicos  Sigla: ELO-302  Fecha de aprobación:  
+20/08/2020 
+(CC.DD. Acuerdo 022/2020)  
+Créditos UTFSM: 3  Prerrequisitos:  
+ELO-311  
+ILN-230   
+Examen: No tiene  Unidad Académica  
+que la imparte  
+Créditos SCT     : 6  Departamento de  
+Electrónica   
+Horas Cátedra  
+Semanal            : 4  
+Horas Ayudantía 
+Semanal: No tiene 
+Horas Laboratorio 
+Semanal: No 
+tiene 
+Semestre en que se dicta  
+Impar  Par  Ambos 
+X  
+Eje formativo                                              : Ingeniería Aplicada  
+Tiempo total de dedicación a la asignatura:  165 horas cronológicas  
+  
+Descripción de la Asignatura  
+En esta asignatura de último año de la carrera Ingeniería Civil Electrónica, los estudiantes conocerán 
+métodos y procedimientos usados en la planificación y desarrollo de proyectos, incorporando los 
+aspectos de gestión de mercado, para el análisis, determi nación de factores críticos de éxito y 
+desarrollo de un plan de negocios de un proyecto.   
+Durante el curso los estudiantes elaboran un proyecto el cual deben defender en sucesivas etapas 
+frente a una comisión.  
+Este curso integra aspectos técnicos y económicos en la formación para la gestión de proyectos en el 
+sector productivo e institucional.  
+Requisitos de entrada  
+•  Manejo de contenidos de matemáticas financieras, contabilidad (flujo de caja, estado de resultados 
+y balance) y análisis financiero (TIR y VAN).  
+•  Aplicar los fundamentos de la administración (organizar, planificar, dirigir y controlar).  
+•  Dominar los fundamentos y aplicaciones de la Electrónica y de Tecnologías de Información.  
+  
+Contribución al perfil de egreso  
+•  Comprender la dinámica de organizaciones empresariales, desde las perspectivas económica, 
+administrativa, financiero contable, producción, seguridad, medioambiente, gestión, liderazgo y 
+comunicación, en un nivel suficiente para integrarse y contribuir al l ogro de las metas de dichas 
+organizaciones.   
+•  Capacidad de construir enfoques originales e innovativos tanto en la interpretación de los 
+proyectos de desarrollo científico, de las oportunidades comerciales y las necesidades sociales, 
+como en la concepción de acciones o proyectos para responder a dichas necesidades.  
+  
+Resultados de Aprendizaje que se esperan lograr en esta asignatura  
+•  Desarrolla un Proyecto real consistente en el desarrollo de un nuevo producto o servicio, con 
+énfasis en la innovación, aplicando la metodología de proyectos.   
+•  Diseña un plan de negocios en base a un estudio de mercado.   
+•  Formula su propuesta de proyecto aplicando criterios de valorización tecnológica y análisis 
+competitivo.   
+•  Toma decisiones de inversión, aplicando criterios de evaluación de proyectos.   
+•  Desarrolla el pensamiento sistémico (ampliado al ámbito empresarial) para la creación de valor 
+con innovación y emprendimiento.   
+  
+    
+Página 2 de 3 
+ 
+Contenidos temáticos  
+•  Innovación industrial.  
+•  Estrategia competitiva.  
+•  Análisis de Mercado.  
+•  Diseño de Operaciones.  
+•  Promoción, difusión y marketing.  
+•  Organización empresarial y comercial.  
+•  Planificación Financiera.  
+  
+Metodología de enseñanza y aprendizaje.  
+•  Clases expositivas.  
+•  Presentaciones de estudiantes.  
+•  Presentación de casos.  
+•  Aprendizaje basado en Proyectos.  
+   
+Evaluación y calificación de la asignatura (Ajustado a Reglamento Institucional-Rglto. N°1)  
+Requisitos de aprobación y  
+calificación  
+Durante el curso los estudiantes elaboran un proyecto el cual 
+deben defender en presentaciones sucesivas frente a una 
+comisión utilizando ciertos indicadores tales como: criterios, 
+premisas, antecedentes rentabilidad, valor y perspectivas.  
+  
+Instrumentos de evaluación.  %  
+Informes o Tareas (T1, T2, T3)  40  
+Exposiciones (E1, E2)  50  
+Participación (P)  10  
+  
+NF= Nota Final  
+  
+NF = Informes o Tareas (40%) + Exposiciones de defensa del 
+proyecto (50%) + apreciación del profesor (10%).  
+  
+P=Percepción del profesor en base a un promedio de Quizzes, 
+Asistencia y Participación.  
+  
+ Recursos para el aprendizaje 
+Bibliografía:  
+Texto Guía   •  Porter M., Pirámide, (2012). Estrategia competitiva: 
+Técnicas para el análisis de la empresa y sus 
+competidores.  
+ •  Porter M., Harvard Business Review, Publishing, Corp 
+(2007). La ventaja competitiva de las naciones.  
+ •  Sapag N., Sapag  R. Mac Graw Hill, 5ª Edición (2008). 
+Preparación y evaluación de Proyectos.  
+Complementaria u Opcional  •  Project Management Institut (2015), Información recuperada 
+de http://www.pmi.org  
+ •  IEEE Spectrum , IEEE (2015) Información recuperada de 
+http://ieeexplore.org y http://spectrum.ieee.org/  
+  
+    
+Página 3 de 3 
+ 
+ II. CÁLCULO DE CANTIDAD DE HORAS DE DEDICACIÓN- (SCT-Chile)- CUADRO 
+RESUMEN DE LA ASIGNATURA  
+  
+ACTIVIDAD  
+Cantidad de horas de dedicación  
+Cantidad de horas por 
+semana  
+Cantidad de 
+semanas  
+Cantidad total de 
+horas  
+PRESENCIAL  
+Cátedra o Clases teóricas  4  15  60  
+Ayudantía/Ejercicios        
+Visitas industriales (de  
+Campo)  
+      
+Laboratorios / Taller        
+Evaluaciones (certámenes, 
+otros)   
+2  15  30  
+Otras (Especificar)        
+NO PRESENCIAL  
+Ayudantía        
+Tareas obligatorias        
+Estudio Personal (Individual o 
+grupal)  
+1  15  15  
+Otras: Preparación y 
+formulación de proyecto.  
+4  15  60  
+TOTAL (HORAS RELOJ)      165  
+Número total en CRÉDITOS TRANSFERIBLES   6  
+  
+  
+  
+  
+  
+  
+   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

@@ -1,0 +1,31 @@
+Domaine Scientifique de la DOUA20, Avenue Albert Einstein - 69100 Villeurbanne
+Collective project S1Collective project S1
+IDENTIFICATION
+CODE : GI-5-S1-EC-PCO
+ECTS : 3
+HOURS
+Cours : 0h
+TD : 0h
+TP : 0h
+Projet : 0h
+Evaluation : 2h
+Face à face pédagogique :2h
+Travail personnel : 58h
+Total : 60h
+ASSESMENT METHOD
+Contrôle  continu  en  situationd'activité :- Validation de cahier des chargesclient (CDC), de réponse à appeld'offre (RAO), d'un plan directeurde projet (PDP) incluant un tableaude bord-  Validation  d'un  ensemble  delivrables jalonnant le projet-  Validation  finale  cohérente  enune procédure de recette avec lemaître d'ouvrage-  Défense  collective  finale  duprojet  devant  l'ensemble  de  lapromotion- Évaluation d'un rapport techniquepar le "tuteur technique"-  Évaluation  d'un  rapportmanagement par le "tuteur MPC"
+TEACHING AIDS
+TEACHING LANGUAGE
+French
+CONTACT
+M. BERNARD Stephane :stephane.bernard@insa-lyon.fr
+AIMS
+projet management methodes and tools (following a project, steeps of a project, riskmanagement,  AMDEC,  formalization  of  the  customers  objectives  ,  redaction  ofspecifications, redaction of plan realisation.
+place the project and its stakes in the organization ; organize and manage a project andwork  in  team;  meetingsmanagement  ;  manage  relevant  information;  communicate,negotiate and defend a project
+CONTENT
+Theoretical course of projet management (following a project, etapes of a project, a tooland methodes (risk management, AMDEC, formalization of the customers objectives ,redaction of specifications, redaction of plan realisation)
+Project: realisation of a project over 6 months by group of 8 students followed by twotutors
+BIBLIOGRAPHY
+- GIDEL T, ZONGHERO W. « Management de Projet 1 et 2 », Hermès Sciences, 2006- BOURGEOIS J-P. « Gestion de Projet » Technique de l'Ingénieur T 7700- CHVIDCHENKO I., CHEVALLIER J. « Conduite et gest. de proj. Princ. et prat. pour ptset grds projets » Cépaduès Edition, 1997- AFITEP « Le Management de Projet, Principes et Pratique » Afnor Gestion, 1991- GIARD V. « La Gestion de Projet » Economica, 1991-  PMI  Project  management  Body  of  Knowledge;  Project  Management  Institute;www.pmi.org- R. MARCINIAK , M. PAGERIE Gestion de projet . Guide pratique de tous vos proj. etprod. indust., Editions WEKA- J. MAISONNEUVE La dynamique des groupes, Paris Que-sais je ?, PUF, 1964- B. KAYE Pédagogie de groupe sciences de l¿éducation, Dunod, 1975- R. MUCHIELLI Les méth. act. dans la pédago des adult., form. perm. en sci. hum.,1991 Gestion de Projets , Tome 1 et 2 , Edition WEKAP7
+PRE-REQUISITES
+- Méthodologie de résolution de problème- Outils de la qualité

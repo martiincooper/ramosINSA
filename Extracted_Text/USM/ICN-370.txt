@@ -1,0 +1,205 @@
+ 
+PROGRAMA DE ASIGNATURA 
+ 
+I. IDENTIFICACIÓN DE LA ASIGNATURA 
+ 
+Asignatura: LOGÍSTICA INDUSTRIAL  Sigla: ICN-370 Fecha de aprobación 
+27-02-2025 
+(CCDD. Acuerdo 004/2025) 
+Créditos SCT: 5 Prerrequisitos: ICN-343 
+  
+Examen: No  Unidad Académica que la 
+imparte 
+Departamento de Industrias 
+Horas Cátedra  
+Semanal: 2,33 
+Ayudantía: Sí  Laboratorio: No  Semestre en que se dicta 
+Impar 
+X   
+Par  Ambos 
+  
+Eje formativo: Ingeniería Aplicada. 
+Tiempo total de dedicación a la asignatura:  136,97 Horas Cronológicas. 
+ 
+Descripción de la Asignatura 
+La asignatura de Logística Industrial pertenece a la línea de operaciones y encuentra enmarcada 
+dentro del área formación de Ingeniería Aplicada para el Ingeniero Civil Industrial. La Logística es 
+presentada como un área fundamental  de las organizaciones para la satisfacción del nivel de servicio 
+y de las expectativas de los clientes, tanto para empresas de bienes como de servicios. Se analiza la 
+logística desde adentro de una organización hacia afuera, con una perspectiva sistémica. Se introduce 
+el concepto de Administración de la Cadena de Suministros (Supply Chain Management) y sus 
+correspondientes macroprocesos. Se analizan casos de estudio y buenas prácticas en operaciones de 
+empresas de clase mundial y su aplicación práctica en empresas nacionales y latinoamericanas.   
+ 
+Requisitos de entrada 
+• Identifica en una organización el rol, el contexto y el impacto del área de operaciones, aplicando la 
+teoría de la gestión de operaciones. 
+• Determina los costos globales de un plan de producción, utilizando modelos de pronóstico y 
+planificación.  
+ 
+Contribución al perfil de egreso 
+Competencias específicas: 
+• CE4 Diseñar planes de mejora en sistemas logísticos y productivos, aplicando conocimientos y 
+modelos técnico-científicos, con el propósito de gestionar eficientemente las operaciones y activos 
+físicos de las organizaciones. 
+ 
+Competencias Transversales Sello USM:  
+• CTS2 Resolución de Problemas:  El/la estudiante -de acuerdo con su nivel formativo-  resuelve 
+problemas, analizando y evaluando soluciones efectivas y eficientes, en función de su impacto en 
+la organización, las personas y el medio ambiente. 
+• CTS3 Compromiso con la Calidad: El/la estudiante -de acuerdo con su nivel formativo-  ejecuta 
+las actividades académicas profesionalizantes, demostrando un alto nivel de dedicación, 
+excelencia y compromiso constante con su proceso de aprendizaje y/o el de sus pares.  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Resultados de Aprendizaje que se esperan lograr en esta asignatura 
+Resultados de aprendizaje asociados a Competencias específicas: 
+• RDA1 Identifica el diseño actual de las Operaciones Logísticas, evaluando su impacto en los 
+procesos de negocios. 
+• RDA2 Identifica  las operaciones logísticas: Warehousing (WMS), Crossdocking, Shippping, 
+evaluándolas operacional y económicamente. 
+• RDA3 Desarrolla modelos extendidos de la Cadena de Suministro (SCM) de una organización, 
+identificando sus actores relevantes a lo largo de sus niveles.  
+• RDA4 Identifica factores y etapas de los modos de transporte: marítimo, aéreo, terrestre, 
+distinguiendo sus características. 
+• RDA5 Analiza  las operaciones de comercio internacional, identificando la importancia de la 
+logística en el intercambio de bienes.  
+• RDA6 Evalúa las operaciones logísticas y los procesos de negocios en transporte marítimo: 
+Estaciones de Transferencia (Terminal de Contenedores / Zonas de Apoyo Logístico (ZAL)), 
+Agenciamiento, administración de Flotas (Chartering), y Modernización Portuaria, generando los 
+fundamentos para la toma de decisiones.  
+ 
+Resultados de Aprendizaje asociados a las CTS:  
+• CTS2 – RDA1 Establece soluciones efectivas, eficientes y viable a problemas complejos de la 
+disciplina o interdisciplina, a partir de ideas innovadoras y a la selección de procedimientos, 
+métodos o técnicas que consideren el impacto en la organización, las personas y medio ambiente.  
+• CTS3 – RDA2 Lidera actividades y/o proyectos académicos, considerando criterios de calidad 
+preestablecidos por el equipo docente, tanto en el proceso como en los resultados, para la 
+excelencia académica y profesional. 
+  
+ 
+Contenidos temáticos 
+1) Definición de las operaciones logísticas y desarrollo de las operaciones de SCM.  
+2) Diseño y evaluación de la logística industrial. 
+3) Análisis global de procesos de negocios y logística en las empresas. 
+4) Modos logísticos de transporte y procesos negocios intermodales. 
+5) Logística Industrial y procesos tecnológicos.  
+6) Containerizacion y tendencias de logística industrial.  
+ 
+Metodología de enseñanza y aprendizaje 
+• Clases expositivas y demostrativas, con solución y análisis de situaciones.  
+• Utilización de elementos audiovisuales de apoyo (power point, excel, otros). 
+• Análisis en clases de casos reales y toma de decisiones. 
+• Evaluación y discusión de casos (papers).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Evaluación y calificación de la asignatura (Ajustado a Reglamento Institucional -Rglto. N°1). 
+Requisitos de 
+aprobación 
+y calificación 
+El proceso de evaluación y calificación consiste en:  
+Instrumentos de evaluación N° % 
+Certámenes (C) 2 50 
+Talleres (T) 2 20 
+Trabajo Final (TF) 1 20 
+Presentación del Trabajo Final (PTF) 1 10 
+ 
+Donde: 
+Promedio Semestral (PS) se calcula según:  
+PS = 0,25*C1 + 0,25*C2 + 0,20*T + 0,20*TF +0,10*PTF 
+• Los estudiantes que obtengan PS mayor o igual a 55 aprobarán la 
+asignatura con nota final: NF = PS 
+ 
+Recursos para el aprendizaje  
+• Plataforma Educativa Virtual AULA-USM.  
+ 
+Bibliografía: 
+Texto Guía  • Chopra, S., Meindl, P., & Kalra, D. V. (2013). Supply chain 
+management: strategy, planning, and operation (Vol. 232). 
+Boston, MA: Pearson. 
+Complementaria u Opcional • Global Logistics and Supply Chain Management. Autores: John 
+Mangan, Chandra Lalwani, Tim Butcher. ISBN-13: 978-
+1119998846  ISBN-10: 1119998840  Edition: 2nd 
+• Stephens, S. (2001). Supply chain operations reference model 
+version 5.0: a new tool to improve supply chain efficiency and 
+achieve best practice. Information Systems Frontiers, 3(4), 471-
+476. 
+• Supply Chain Network Design: Applying optimization and 
+Analytics to the Global Supply Chain. Michael Watson, Sara 
+Lewis, Peter Cacioppi, Jay Jayaraman. ISBN -13: 978-
+0133017373  ISBN-10: 0133017370  Edition: 1st 
+• Global Supply Chain Management: Leveraging Processes 
+Measurements, and Tools for Strategic Corporate. G. Tomas M 
+Hult, David Closs, David FrayerISBN-10: 0071827420 
+• Supply Chain Risk: Understanding Emerging Threats to Global 
+Supply Chains Paperback. John Manners ISBN -13: 978-
+0749471101  ISBN-10: 0749471107 
+• Simchi-Levi, D., Kaminsky, P., Simchi -Levi, E., & Shankar, R. 
+(2008). 
+Designing and managing the supply chain: concepts, 
+strategies and case studies. Tata McGraw-Hill Education. 
+ 
+ 
+ 
+ 
+ 
+ 
+II. CÁLCULO DE CANTIDAD DE HORAS DE DEDICACIÓN-  (SCT-Chile)- CUADRO 
+RESUMEN DE LA ASIGNATURA. 
+ 
+ 
+1 DECRETO DE RECTORIA Nº 325/2020 VALPARAISO, 13 de noviembre de 2020. REF.: Establece duración hora pedagógica de clases en la  
+Universidad Técnica Federico Santa María, a contar del Año Académico 2021.  
+2 DECRETO DE RECTORIA Nº 324/2020 VALPARAISO, 13 de noviembre de 2020. 
+REF.: Establece equivalencia de crédito transferible SCT Chile con horas de trabajo cronológicas semestral en la Universidad Técnica Federico Santa 
+María, a contar del Año Académico 2021.  
+ 
+ 
+ACTIVIDAD  
+Cantidad de horas de dedicación 
+Cantidad de horas por 
+semana1 
+Cantidad de 
+semanas 
+Cantidad total de 
+horas 
+PRESENCIAL 
+Cátedra o Clases teóricas 2,33 14 32,62 
+Ayudantía/Ejercicios 1,17 8 9,36 
+Visitas industriales (de 
+Campo) 
+- - - 
+Laboratorios / Taller 1,17 2 2,33 
+Evaluaciones (certámenes, 
+otros)  
+1,17 2 2,33 
+Otras (Presentación trabajo) 2,33 1 2,33 
+NO PRESENCIAL 
+Ayudantía - - - 
+Tareas obligatorias. - - - 
+Estudio Personal (Individual o 
+grupal: Certamen y controles 
+de lectura) 
+4 12 48 
+Otras (Trabajo) 4 10 40 
+TOTAL (HORAS RELOJ) - - 136,97 
+Número total en CRÉDITOS ACADÉMICOS TRANSFERIBLES 2 5 

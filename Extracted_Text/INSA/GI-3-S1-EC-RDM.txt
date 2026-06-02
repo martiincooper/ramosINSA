@@ -1,0 +1,32 @@
+Domaine Scientifique de la DOUA20, Avenue Albert Einstein - 69100 Villeurbanne
+Strength of materialsStrength of materials
+IDENTIFICATION
+CODE : GI-3-S1-EC-RDM
+ECTS : 3
+HOURS
+Cours : 0h
+TD : 30h
+TP : 2h
+Projet : 0h
+Evaluation : 2h
+Face à face pédagogique :34h
+Travail personnel : 12h
+Total : 46h
+ASSESMENT METHOD
+EE  (évaluation  écrite:  poster,rapports) : mini-project coefficient1IE  (interrogation  écrite)  :  writtentest 1h50 coefficient 2
+TEACHING AIDS
+Duplicated course material
+TEACHING LANGUAGE
+French
+CONTACT
+Mme WALTER-LE BERRE Hélène:helene.walter-le-berre@insa-lyon.fr
+AIMS
+This course belongs to teaching unit Conception de produits et systèmes industriels(GI-3-S1-UE-CPSI) and contributes to the following skills : 
+C2 Modeling and designing an information, decision and production system, of goodsand services (Level 1)C3 Evaluating, prototyping and simulating a system (Level 1)C4 Sizing the hardware and / or software of a system (Level 1)
+CONTENT
+Classes and directed works : Strength Of Materials :* Stress modelling under simple load* Static balance and torque of mechanical actions* Stress tensor, strain tensor and strength criteria* Constitutive laws (Hooke's laws)* Bending deflection* Introduction to the Finite Element method* Application to a mini-project
+- To Acquire the fundamental concepts of Strength Of Materials in order to analyze thebehavior of mechanical components.
+BIBLIOGRAPHY
+S. TIMOSHENKO, Résistance Des Matériaux, Librairie Polytechnique Béranger, 1963.P. AGATI, F. LEROUGE et M. ROSSETTO, Résistance des Matériaux, Dunod, 1999.D. GAY et J. GAMBELIN, Dimensionnement des Structures, Hermes, 1999.
+PRE-REQUISITES
+* Mechanic : static balance* Mathematics : integral and differential calculation bases and matrix algebra

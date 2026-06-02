@@ -1,0 +1,30 @@
+Domaine Scientifique de la DOUA20, Avenue Albert Einstein - 69100 Villeurbanne
+Computational problem solvingComputational problem solving
+IDENTIFICATION
+CODE : GI-3-S2-EC-RIP
+ECTS : 2
+HOURS
+Cours : 0h
+TD : 8h
+TP : 16h
+Projet : 0h
+Evaluation : 0h
+Face à face pédagogique :24h
+Travail personnel : 8h
+Total : 40h
+ASSESMENT METHOD
+ES (évaluation en situation)
+TEACHING AIDS
+TEACHING LANGUAGE
+French
+CONTACT
+Mme ROBARDET Céline :celine.robardet@insa-lyon.fr
+M. MONCLA Ludovic :ludovic.moncla@insa-lyon.fr
+AIMS
+"This course belongs to teaching unit Conception et gestion des systèmes d'informations(GI-3-S2-UE-CGSI) and contributes to the following skills : 
+By  allowing  the  engineering  students  to  work  and  be  evaluated  on  the  followingknowledge :
+To be able to :* increase skills in object modeling (up to level 4)* be able to read/write in a file (parser, writing according to a specified formation)* be able to correct a program and validate it through unit tests.From the point of view of learning around the management of the supply chain, thisproject will allow students to implement on a concrete instance an optimization strategy.
+CONTENT
+The student is placed in a situation of carrying out an IT project based on precisespecifications. The project focuses on solving a constrained optimization problem. Avalidation program is provided to students in order to concretely assess the feasibility oftheir solution. Optimality is not guaranteed but a comparison of the results obtained bythe different groups of students creates emulation. The objective is to allow students toacquire and deepen their programming skills. The language used is Python.
+BIBLIOGRAPHY
+PRE-REQUISITES

@@ -1,0 +1,28 @@
+Domaine Scientifique de la DOUA20, Avenue Albert Einstein - 69100 Villeurbanne
+Strategic Supply chainStrategic Supply chain
+IDENTIFICATION
+CODE : GI-5-S1-EC-SSC
+ECTS : 3
+HOURS
+Cours : 0h
+TD : 28h
+TP : 0h
+Projet : 0h
+Evaluation : 2h
+Face à face pédagogique :30h
+Travail personnel : 30h
+Total : 60h
+ASSESMENT METHOD
+TEACHING AIDS
+Sunil  Chopra,  Supply  ChainManagement:  Strategy,  Planningand Operations, (6th Edition) 2016
+TEACHING LANGUAGE
+English
+CONTACT
+M. BABOLI Armand :armand.baboli@insa-lyon.fr
+AIMS
+CONTENT
+1- Supply chain Strategic Framework a. understanding the supply chain, b. Drivers and metrics c. KPI and performance measurement, 2- ) Designing the Supply Chain Network a. Distribution networks, b. Facility location and capacity allocation, c. Risk management in global supply chains3- Planning and Coordinating Demand and Supply in a Supply Chaina. Demand forecasting, aggregate planning, b. Sales and operations planning, c. Coordination in a supply chain, 4- Planning and Managing Inventories a. Managing economies of scale in a supply chain, b. Managing uncertainty in a supply chain, c. Determining the optimal level of product availability5- Designing and Planning Transportation Networks a. Challenges about Transportation Networks b. Multimodal transportation6- Managing Cross-Functional Drivers in a Supply Chain a. Sourcing decisions, b. Pricing and revenue management, c. IT in a supply chain
+BIBLIOGRAPHY
+1- Sunil Chopra, 2018, Supply Chain Management: Strategy, Planning and Operations,(7th Edition), Pearson Education2- F. Robert Jacobs & Richard Chase, 2023, Operations and Supply Chain ManagementISE, McGraw-Hill Education; 17edition3-  John  J.  Coyle  et  al.,  2020,  Supply  Chain  Management:  A  Logistics  Perspective,South-Western College Publishing4- Roberta R. Russell, 2016, Operations Management: Creating Value Along the SupplyChain, John Wiley & Sons
+PRE-REQUISITES
+Production  Planning  and  Scheduling,  ERP,  Mathematical  modeling  and  optimization,Statistic and Probability, Liner programming, Inventory Control

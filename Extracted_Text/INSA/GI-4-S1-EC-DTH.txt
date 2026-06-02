@@ -1,0 +1,28 @@
+Domaine Scientifique de la DOUA20, Avenue Albert Einstein - 69100 Villeurbanne
+Design thinkingDesign thinking
+IDENTIFICATION
+CODE : GI-4-S1-EC-DTH
+ECTS : 2
+HOURS
+Cours : 2h
+TD : 24h
+TP : 0h
+Projet : 0h
+Evaluation : 2h
+Face à face pédagogique :28h
+Travail personnel : 12h
+Total : 40h
+ASSESMENT METHOD
+project  in  group  and  evaluation(2h)
+TEACHING AIDS
+Powerpoint slides
+TEACHING LANGUAGE
+French
+CONTACT
+MME SERNA Audrey :audrey.serna@insa-lyon.fr
+AIMS
+Interactive systems design: - Methods, tools and concepts for designing interactive systems- User centered approach- Ergonomic criterias
+CONTENT
+- HCI introduction and interaction paradigms- Methods and models for designing UI (User Interfaces)- Analysis of users requirements- Sketching and prototyping- Ergonomic criteria- UI evaluation
+BIBLIOGRAPHY
+PRE-REQUISITES

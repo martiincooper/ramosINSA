@@ -1,0 +1,66 @@
+EX UMBRA SOLEMIN
+ 
+Universidad Técnica Federico Santa María 
+Departamento de Industrias 
+ 
+ 
+ASIGNATURA: 
+ADMINISTRACIÓN DE LA PRODUCCIÓN 
+SIGLA: 
+ICN - 345 
+CRÉDITOS: 
+          3     
+PRERREQUISITOS: 
+ILI-281 o ILN-250  
+EXAMEN: 
+                  No Tiene 
+ 
+HRS. CAT. SEM.: 
+          4 
+HRS. AYUD. SEM.: 
+0 
+HRS. LAB. SEM.: 
+                  0 
+ 
+ 
+OBJETIVOS: 
+Al aprobar la asignatura el alumno estará en condiciones de: 
+• Planificar y controlar  sistemas de producción. 
+• Comprender los vínculos que existen entre el área de operaciones y las demás 
+funciones de la empresa. 
+ 
+ 
+CONTENIDOS: 
+1. Introducción y Conceptos básicos . Evolución de los sistemas de producción; 
+clasificación de los sistemas de producción, aspectos básicos de la administración de 
+operaciones, conceptos de competitividad y productividad;  estrategia de manufactura. 
+2. Pronósticos de demanda . Administración de la demanda; patrones fundamentales de 
+la demanda, métodos cualitativos y cuantitativos de pronósticos.  
+3. Gestión de Inventarios.  Tipos de inventarios; costos asociados a los inventarios 
+planificación de inventarios; modelos de inventario de demanda independiente.  
+4. Planificación de Producción.  Planificación agregada; proceso de planificación; 
+técnicas de planificación agregada. 
+5. Planificación de necesidades de materiales MRP.  Sistema de planificación de 
+requerimientos de materiales (MRP). 
+6. Programación y control del taller. Programación bajo pedido;  
+7. Capacidad. Planificación de la capacidad; métodos de diseño de capacidad. 
+8. Localización. Factores de localización; métodos para el análisis de localización. 
+9. Distribución. Planificación de la distribución; tipos de distribución de planta; diseño de 
+distribución por proceso; diseño de distribución por producto. 
+10. Manufactura de Clase Mundial.   Concepto de desperdicio; reducción de inventarios; 
+mantenimiento preventivo predictivo; redu cción de tiempos de preparación; trabajadores 
+polivalentes; aseguramiento de calidad. 
+ 
+ 
+ 
+BIBLIOGRAFÍA: 
+• Chase, R.; Aquilano, N; Jacobs.: “Dirección y Administración de la Producción  y de 
+las Operaciones”, Editorial  Addison-Wesley Iberoamericana, Octava Edición, 2000.  
+• Krajewski, L.; Ritzman, L.: "Administración de operaciones", Prentice Hall, 2000.  
+• Render, B.; Heizer, J.: "Principios de Administración de Operaciones" Prentice Hall, 
+1996. 
+   
+ELABORADO:  Pablo Escalona R. OBSERVACIONES: 
+APROBADO: CC.DD. Acuerdo 47/02   
+FECHA: 10-12-2002  
+ 

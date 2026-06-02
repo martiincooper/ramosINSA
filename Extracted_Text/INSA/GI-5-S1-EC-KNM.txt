@@ -1,0 +1,28 @@
+Domaine Scientifique de la DOUA20, Avenue Albert Einstein - 69100 Villeurbanne
+Knowledge managementKnowledge management
+IDENTIFICATION
+CODE : GI-5-S1-EC-KNM
+ECTS : 2
+HOURS
+Cours : 0h
+TD : 18h
+TP : 0h
+Projet : 0h
+Evaluation : 2h
+Face à face pédagogique :20h
+Travail personnel : 20h
+Total : 40h
+ASSESMENT METHOD
+TEACHING AIDS
+TEACHING LANGUAGE
+French
+CONTACT
+M. LOISEAU Mathieu :mathieu.loiseau@insa-lyon.fr
+AIMS
+This course belongs to teaching unit Industrie 4.0 (GI-5-S1-UE-INQZ) and contributes tothe following skills : C2 Modeling and designing an information, decision and production system, of goodsand services (Level 1)C6 Selecting appropriate production tools, integrating them into an environment andconfiguring them, and setting up a production system (Level 1)C10 Developing and implementing an action plan as part of a quality and continuousimprovement approach (Level 1)C11  Understanding  and  evaluating  a  structure  holistically,  through  socio-economicframes of reference (Level 1)C12 Changing organizations to meet new constraints or opportunities (Level 1)C18 Identifying the critical skills and knowledge of an organization and implement toolsand methods to sustain the (Level 1)C19  Conducting  a  socio-organizational  analysis  to  better  understand  the  effects  ofchange and to adapt strategies (Level 1)B5 act responsibly in a complex world (Level 1)
+By  allowing  the  engineering  students  to  work  and  be  evaluated  on  the  followingknowledge :- Industrial knowledge-related assets- Information, knowledge, and expertise- Knowledge management methods in industry, collaborative knowledge managementtools- Digital knowledge management tools- Knowledge management strategies and continuous improvement- Technological, human, and organizational knowledge and structureTo be able to :-  Distinguishing  the  type  of  knowledge  created  by  the  use  of  information  andCommunication- Identify industrial capital (human, technological, organizational, informational)- Assess the limitations of knowledge management systems
+CONTENT
+BIBLIOGRAPHY
+Ackoff, Russell Lincoln. 1989. « From Data to Wisdom ». Journal of Applied SystemsAnalysis 16: 3–9.Dejoux, Cécile. 2013. Gestion des compétences et GPEC. 2e édition. Dunod.Giezendanner, François Daniel. 2006. « Philosophie et caractéristiques des wikis ». Blog.Ici et là. 2 juin 2006. http://icietla-ge.ch/voir/spip.php?article124.Grundstein, Michel. 2003. « De la capitalisation des connaissances au management desconnaissances dans l’entreprise, les fondamentaux du knowledge management », 19.Lemaître,  Denis,  et  Maud  Hatano.  2007.  Usages  de  la  notion  de  compétence  enéducation  et  en  formation.  L ’Harmattan,  Coll.  Action  et  savoir.  https://hal-ensta-bretagne.archives-ouvertes.fr/hal-00521434.Nelson, Richard, et Sidney Winter. 1982. An Evolutionary Theory of Economic Change.Belknap Press.Nonaka, Ikujirō, et Hirotaka Takeuchi. 1995. The Knowledge-Creating Company: HowJapanese companies create the dynamics of innovation. Oxford University Press.Penrose, Edith. 1959. The Theory of the Growth of the Firm. 4th Edition (2009). OxfordUniversity Press.Polanyi, Michael. 1966. The tacit dimension. 2009 edition. The University of ChicagoPress.Postiaux,  Nadine,  Philippe  Bouillard,  et  Marc  Romainville.  2010.  « Référentiels  decompétences à l’université. Usages, rôles et limites ». Recherche et formation, no 64
+(juillet): 15‑30. https://doi.org/10.4000/rechercheformation.185.Reagle,  J.M.  2010.  Good  Faith  Collaboration:  The  Culture  of  Wikipedia.  Édité  parMichael Buckland et Jonathan Furner. History and foundations of information science.Cambridge, MA: MIT Press. http://mitpress.mit.edu/books/good-faith-collaboration.Zins,  Chaim.  2007.  « Conceptual  approaches  for  defining  data,  information,  andknowledge ». Journal of the American Society for Information Science and Technology58 (4): 479–493. https://doi.org/10.1002/asi.20508. 
+PRE-REQUISITES

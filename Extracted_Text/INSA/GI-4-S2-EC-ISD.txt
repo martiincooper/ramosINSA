@@ -1,0 +1,31 @@
+Domaine Scientifique de la DOUA20, Avenue Albert Einstein - 69100 Villeurbanne
+Introduction to data scienceIntroduction to data science
+IDENTIFICATION
+CODE : GI-4-S2-EC-ISD
+ECTS : 1
+HOURS
+Cours : 0h
+TD : 12h
+TP : 0h
+Projet : 0h
+Evaluation : 0h
+Face à face pédagogique :12h
+Travail personnel : 0h
+Total : 12h
+ASSESMENT METHOD
+TP/ADD  TPS  (Travaux  pratiquessurveillés)
+Plus  1  ECTS  for  exchangestudents
+TEACHING AIDS
+TEACHING LANGUAGE
+English
+CONTACT
+MME ROBARDET Celine :celine.robardet@insa-lyon.fr
+AIMS
+This course belongs to teaching unit Refresher (GI-4-S2-UE-RNIV) and contributes tothe following skills :A3 Implement an experimental approach (Level 2)A5 Process data (Level 3)A6 Report on an analysis or on a scientific approach (Level 3)C1 Observing, measuring, analyzing and interpreting an activity or a system from data(Level 3)C4 Sizing the hardware and / or software of a system (Level 2)C11  Understanding  and  evaluating  a  structure  holistically,  through  socio-economicframes of reference (Level 1)B2 work, learn, progress autonomously (Level 2)B3 interact with people and work in a team (Level 3)
+By  allowing  the  engineering  students  to  work  and  be  evaluated  on  the  followingknowledge :xTo be able to :- (C4)- (C1)- (A3, A5, A6, C11, B2, B3)
+CONTENT
+DATA ANALYSIS1.DataCharacteristics: origin, quality, codingPreparation: restoration, filtering, synchronization, construction of classesDependence: distances, ultra metric, correlation2.Tools :Descriptive methods: principal components analysis, correspondences, preferencesExplanatory  methods:  regression,  segmentation,  canonical  analysis,  discriminatedanalysisStructural methods: ultra metric and hierarchical classification, dynamic swarms.3.Analysis :Analysis methodologiesInterpretation rulesCase studies
+BIBLIOGRAPHY
+****Cours Analyse de données : ****1. E.Diday, J.Lemaire, J.Pouget, F.Testu, Eléments d'analyse de données, Dunod 19822. G.Saporta, Probabilités, Analyse de données et Statistiques, Technip 19903. Jean-Pierre , Analyse interactive des données (ACP, AFC) avec Excel 2000 : théorieet pratique / Georgin. Presses universitaires de Rennes , 20024. Alain Morineau et Yves-Marie Chatelin , L 'analyse statistique des données [ Texteimprimé ] : apprendre, comprendre et réaliser avec Excel, Ellipses , 2005 , 407 p****Cours Entrepots de données : ****1. Entrepôts de données. Guide pratique de modélisation dimensionnelle, 2ème édition,R. Kimball, M. Ross2. Piloter l'entreprise grâce au data Warehouse, J.-M. Franco, S de Lignerolles
+PRE-REQUISITES
+Statistics, data base
