@@ -32,6 +32,22 @@ def build_arg_parser() -> argparse.ArgumentParser:
         help="Path for the generated Excel file (default: Results/convalidation_proposals.xlsx).",
     )
     parser.add_argument("--quiet", action="store_true", help="Suppress progress output.")
+    parser.add_argument(
+        "--from-extracted",
+        action="store_true",
+        help=(
+            "Reuse the existing Extracted_Text/*.txt files instead of re-extracting "
+            "them from the source PDFs (use when the text was already extracted)."
+        ),
+    )
+    parser.add_argument(
+        "--manual",
+        action="store_true",
+        help=(
+            "Use the built-in manual expert review of the extracted syllabi instead "
+            "of an external AI model (no OPENAI_API_KEY required)."
+        ),
+    )
     return parser
 
 
@@ -41,6 +57,8 @@ def main() -> None:
         insa_pdf=args.insa_pdf,
         output_path=args.output_path,
         verbose=not args.quiet,
+        from_extracted=args.from_extracted,
+        manual=args.manual,
     )
 
 
