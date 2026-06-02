@@ -317,6 +317,8 @@ def manual_verdict_for(usm: USMCourse) -> Optional[ManualVerdict]:
     if "innovaci" in title:
         return MANUAL_REVIEW["36"]
     raw = (usm.raw_text or "").upper()
+    # Accent-insensitive substring ("ingenier" rather than "ingeniería") so the
+    # match is robust to how the accented title was extracted from the PDF.
     if "software de ingenier" in title or "ICN-357" in raw or "ICN\u2013357" in raw:
         return MANUAL_REVIEW["ICN-357"]
     return None
@@ -333,6 +335,9 @@ class ManualReviewAgent(BaseAgent):
     """
 
     name = "manual-review"
+    # Top similarity for the manually chosen INSA courses so they always rank
+    # first and survive the matcher's top-k pruning, ensuring the curated
+    # combination is the one selected.
     _CHOSEN_SCORE = 0.97
 
     def __init__(self) -> None:
