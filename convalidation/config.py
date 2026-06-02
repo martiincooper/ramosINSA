@@ -90,6 +90,8 @@ class Rules:
     top_k_candidates: int = 8
     # Maximum number of INSA courses combined for a single USM convalidation.
     max_combination_size: int = 3
+    # INSA Lyon course years that correspond to Master (vs Pregrado) level.
+    master_level_years: tuple = ("4", "5")
 
 
 RULES = Rules()
