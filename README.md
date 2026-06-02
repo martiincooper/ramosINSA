@@ -29,8 +29,13 @@ encoded as data and shared by the matcher and the LLM prompt.
 
 ## The reasoning layer
 
-`convalidation/llm_agent.py` provides two interchangeable agents:
+`convalidation/llm_agent.py` provides three interchangeable agents:
 
+* **`ManualReviewAgent`** — a built-in, hand-written expert review of the already
+  extracted syllabi (selected with `--manual`). It encodes a content-based,
+  course-by-course equivalence judgement for every USM course and needs **no API
+  key and no external model**. Use it to reproduce the curated convalidation
+  proposals directly from the `Extracted_Text/` files.
 * **`OpenAIAgent`** — used automatically when `OPENAI_API_KEY` is set. It reasons
   over the extracted INSA/USM syllabus texts and returns a structured
   equivalence judgement. Configure the model with `OPENAI_MODEL`
@@ -54,9 +59,17 @@ python main.py
 export OPENAI_API_KEY=sk-...
 python main.py
 
+# Manual expert review, reusing the already-extracted texts (no API key, no
+# PDF re-extraction). This reproduces the curated convalidation proposals:
+python main.py --from-extracted --manual
+
 # Options:
 python main.py --insa "INSA COURSES.pdf" --output Results/out.xlsx --quiet
 ```
+
+When `--manual` is combined with `--from-extracted`, the pipeline skips the slow
+PDF extraction step and reads the per-course `Extracted_Text/INSA/*.txt` and
+`Extracted_Text/USM/*.txt` files that were produced by a previous run.
 
 ## Output
 
@@ -84,6 +97,9 @@ The pipeline creates these folders (regenerated on each run, git-ignored):
      equivalent USM course on the right (*ASIGNATURA EQUIVALENTE USM*: SIGLA,
      NOMBRE ASIGNATURA, CRÉDITOS SCT). When a USM course is convalidated by a
      combination of several INSA courses they appear on consecutive rows.
+* `Results/convalidation_review.md` — a human-readable Markdown summary of the
+  convalidation proposals (recommended INSA course(s), combined ECTS, estimated
+  equivalence %, validation status and a written justification per USM course).
 
 Validation status labels: `Valid`, `Borderline`, `Invalid`,
 `Valid with combination`, `Needs additional work`.
