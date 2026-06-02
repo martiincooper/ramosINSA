@@ -184,7 +184,7 @@ def _insa_level_cell(course: INSACourse) -> str:
     INSA Lyon 4th- and 5th-year course sheets correspond to Master level; the
     earlier years are Pregrado.
     """
-    is_master = str(course.year).strip() in {"4", "5"}
+    is_master = str(course.year).strip() in RULES.master_level_years
     pregrado = _CHECKED if not is_master else _UNCHECKED
     master = _CHECKED if is_master else _UNCHECKED
     return f"{pregrado} Pregrado\n{master} Master"
